@@ -1,0 +1,10001 @@
+food_item,calories_per_unit
+shrimp,99
+carrot,25
+broccoli,55
+haddock,206
+onion,40
+pasta,221
+watermelon,30
+green beans,35
+kidney beans,112
+oats,110
+pork,242
+mango,201
+egg,78
+broccoli,55
+mango,201
+green beans,35
+crab,83
+anchovies,189
+mushroom,15
+banana,105
+strawberries,49
+kiwi,41
+kiwi,41
+blueberries,84
+zucchini,33
+strawberries,49
+oysters,98
+almonds,164
+potato,130
+haddock,206
+onion,40
+orange,62
+tuna,100
+lettuce,15
+green beans,35
+asparagus,20
+bread,79
+pasta,221
+coconut milk,42
+ham,300
+soy milk,30
+zucchini,33
+anchovies,189
+crab,83
+broccoli,55
+pomegranate,234
+tuna,100
+watermelon,30
+avocado,234
+black beans,227
+mango,201
+trout,109
+bell pepper,24
+cabbage,25
+prosciutto,280
+potato,130
+lettuce,15
+apple,95
+asparagus,20
+peanut butter,188
+kiwi,41
+quinoa,120
+barley,193
+apple,95
+turkey,130
+quinoa,120
+bulgur,222
+bell pepper,24
+pork,242
+peanut butter,188
+green beans,35
+cod,22
+chickpeas,269
+avocado,234
+haddock,206
+kidney beans,112
+barley,193
+blueberries,84
+cabbage,25
+cherry,50
+turkey,130
+cucumber,16
+sardines,105
+onion,40
+banana,105
+salmon,208
+ham,300
+plum,46
+cheese,113
+zucchini,33
+rye,45
+black beans,227
+quinoa,120
+tomato,22
+cucumber,16
+scallops,69
+kidney beans,112
+clams,199
+pear,101
+corn,96
+mango,201
+turkey,130
+spinach,23
+blueberries,84
+grapes,62
+salami,350
+corn,96
+scallops,69
+bacon,50
+pepperoni,350
+corn,96
+almonds,164
+prosciutto,280
+turkey,130
+almond milk,46
+corn,96
+scallops,69
+apple,95
+pasta,221
+black beans,227
+oats,110
+sausage,200
+coconut milk,42
+peach,39
+pineapple,82
+mango,201
+corn,96
+mushroom,15
+pineapple,82
+tofu,76
+bell pepper,24
+yogurt,59
+milk,103
+apple,95
+trout,109
+green beans,35
+shrimp,99
+onion,40
+black beans,227
+turkey,130
+rice,206
+apple,95
+egg,78
+mango,201
+bulgur,222
+chicken breast,165
+peach,39
+carrot,25
+haddock,206
+sausage,200
+plum,46
+bulgur,222
+peach,39
+lentils,116
+salmon,208
+egg,78
+lamb,400
+barley,193
+lobster,43
+rye,45
+tuna,100
+quinoa,120
+lobster,43
+black beans,227
+egg,78
+plum,46
+cherry,50
+trout,109
+peach,39
+asparagus,20
+tofu,76
+crab,83
+pomegranate,234
+quinoa,120
+salami,350
+beef,250
+bulgur,222
+peas,59
+ham,300
+salmon,208
+haddock,206
+salmon,208
+pear,101
+lettuce,15
+salami,350
+yogurt,59
+yogurt,59
+kiwi,41
+mango,201
+soy milk,30
+ham,300
+banana,105
+apple,95
+green beans,35
+oysters,98
+almonds,164
+potato,130
+banana,105
+lobster,43
+bread,79
+almonds,164
+broccoli,55
+pomegranate,234
+onion,40
+avocado,234
+chickpeas,269
+eggplant,20
+prosciutto,280
+tomato,22
+bacon,50
+haddock,206
+pineapple,82
+rye,45
+bacon,50
+bacon,50
+beef,250
+avocado,234
+bell pepper,24
+shrimp,99
+cucumber,16
+cod,22
+spinach,23
+rice,206
+blueberries,84
+wheat,118
+mango,201
+pomegranate,234
+sardines,105
+clams,199
+milk,103
+salami,350
+cauliflower,22
+cabbage,25
+onion,40
+plum,46
+cheese,113
+pomegranate,234
+cucumber,16
+anchovies,189
+prosciutto,280
+salami,350
+strawberries,49
+barley,193
+watermelon,30
+orange,62
+bell pepper,24
+bread,79
+chickpeas,269
+scallops,69
+carrot,25
+mushroom,15
+cheese,113
+blueberries,84
+salami,350
+coconut milk,42
+asparagus,20
+duck,300
+banana,105
+quinoa,120
+lamb,400
+black beans,227
+chickpeas,269
+kiwi,41
+blueberries,84
+mango,201
+peanut butter,188
+potato,130
+bell pepper,24
+potato,130
+kiwi,41
+rye,45
+garlic,4
+quinoa,120
+bulgur,222
+tomato,22
+spinach,23
+oysters,98
+oats,110
+pear,101
+kiwi,41
+almonds,164
+sausage,200
+bacon,50
+coconut milk,42
+cod,22
+blueberries,84
+shrimp,99
+cod,22
+cod,22
+bell pepper,24
+cheese,113
+apple,95
+almond milk,46
+zucchini,33
+cauliflower,22
+cucumber,16
+garlic,4
+cherry,50
+chicken breast,165
+eggplant,20
+black beans,227
+bread,79
+yogurt,59
+eggplant,20
+rye,45
+corn,96
+almond milk,46
+cheese,113
+haddock,206
+barley,193
+bulgur,222
+green beans,35
+bread,79
+coconut milk,42
+tilapia,45
+sausage,200
+egg,78
+peanut butter,188
+bacon,50
+tilapia,45
+clams,199
+tuna,100
+cucumber,16
+ham,300
+bread,79
+pork,242
+rye,45
+blueberries,84
+blueberries,84
+green beans,35
+peach,39
+carrot,25
+tofu,76
+scallops,69
+cheese,113
+lettuce,15
+blueberries,84
+salami,350
+prosciutto,280
+salmon,208
+beef,250
+catfish,223
+salmon,208
+avocado,234
+peas,59
+tuna,100
+rye,45
+ham,300
+garlic,4
+milk,103
+rye,45
+cheese,113
+beef,250
+watermelon,30
+tomato,22
+soy milk,30
+mushroom,15
+chicken breast,165
+pomegranate,234
+zucchini,33
+bell pepper,24
+bulgur,222
+garlic,4
+pork,242
+rice,206
+prosciutto,280
+cucumber,16
+pasta,221
+ham,300
+pear,101
+tofu,76
+cauliflower,22
+shrimp,99
+bulgur,222
+cauliflower,22
+plum,46
+pineapple,82
+pasta,221
+pasta,221
+milk,103
+peach,39
+garlic,4
+asparagus,20
+mango,201
+coconut milk,42
+coconut milk,42
+barley,193
+tofu,76
+oats,110
+carrot,25
+pineapple,82
+cucumber,16
+pepperoni,350
+broccoli,55
+lamb,400
+corn,96
+chicken breast,165
+mushroom,15
+beef,250
+pineapple,82
+crab,83
+milk,103
+coconut milk,42
+pomegranate,234
+cucumber,16
+peas,59
+lamb,400
+chickpeas,269
+catfish,223
+cod,22
+pork,242
+corn,96
+crab,83
+bread,79
+rye,45
+pomegranate,234
+almond milk,46
+zucchini,33
+clams,199
+garlic,4
+oats,110
+turkey,130
+asparagus,20
+potato,130
+coconut milk,42
+mackerel,92
+cucumber,16
+scallops,69
+kidney beans,112
+rice,206
+rye,45
+tuna,100
+almonds,164
+turkey,130
+quinoa,120
+haddock,206
+barley,193
+cabbage,25
+chicken breast,165
+orange,62
+broccoli,55
+broccoli,55
+quinoa,120
+green beans,35
+corn,96
+avocado,234
+almonds,164
+almond milk,46
+cherry,50
+lentils,116
+ham,300
+coconut milk,42
+cheese,113
+chicken breast,165
+peach,39
+pasta,221
+cod,22
+crab,83
+beef,250
+potato,130
+oats,110
+lobster,43
+mango,201
+avocado,234
+lobster,43
+cucumber,16
+anchovies,189
+cauliflower,22
+avocado,234
+catfish,223
+bell pepper,24
+cucumber,16
+broccoli,55
+potato,130
+rye,45
+catfish,223
+onion,40
+tuna,100
+broccoli,55
+peas,59
+milk,103
+clams,199
+pomegranate,234
+soy milk,30
+peas,59
+mackerel,92
+grapes,62
+oysters,98
+mackerel,92
+bacon,50
+bell pepper,24
+mushroom,15
+coconut milk,42
+wheat,118
+lobster,43
+oats,110
+bell pepper,24
+bell pepper,24
+mackerel,92
+pear,101
+orange,62
+yogurt,59
+tilapia,45
+bell pepper,24
+rye,45
+rye,45
+peas,59
+cabbage,25
+pasta,221
+mushroom,15
+chickpeas,269
+cauliflower,22
+turkey,130
+strawberries,49
+onion,40
+soy milk,30
+salmon,208
+broccoli,55
+mushroom,15
+wheat,118
+watermelon,30
+lettuce,15
+cauliflower,22
+carrot,25
+peach,39
+chickpeas,269
+pineapple,82
+garlic,4
+watermelon,30
+ham,300
+banana,105
+trout,109
+mackerel,92
+bread,79
+garlic,4
+shrimp,99
+pasta,221
+asparagus,20
+strawberries,49
+cheese,113
+soy milk,30
+duck,300
+cherry,50
+clams,199
+sausage,200
+pineapple,82
+scallops,69
+haddock,206
+turkey,130
+grapes,62
+soy milk,30
+catfish,223
+pomegranate,234
+spinach,23
+crab,83
+almonds,164
+crab,83
+duck,300
+cheese,113
+bread,79
+spinach,23
+cheese,113
+carrot,25
+lamb,400
+spinach,23
+ham,300
+lentils,116
+beef,250
+duck,300
+green beans,35
+mango,201
+anchovies,189
+kiwi,41
+kidney beans,112
+anchovies,189
+salmon,208
+mango,201
+potato,130
+pear,101
+orange,62
+catfish,223
+peach,39
+black beans,227
+sardines,105
+wheat,118
+blueberries,84
+asparagus,20
+mango,201
+rice,206
+bacon,50
+pasta,221
+garlic,4
+pork,242
+mango,201
+mango,201
+sardines,105
+peach,39
+banana,105
+green beans,35
+trout,109
+pepperoni,350
+spinach,23
+sardines,105
+strawberries,49
+lobster,43
+bacon,50
+oats,110
+peanut butter,188
+green beans,35
+tilapia,45
+rye,45
+pepperoni,350
+orange,62
+yogurt,59
+barley,193
+oysters,98
+chicken breast,165
+apple,95
+wheat,118
+onion,40
+pork,242
+plum,46
+almond milk,46
+cherry,50
+duck,300
+cucumber,16
+tomato,22
+bread,79
+milk,103
+pork,242
+tilapia,45
+strawberries,49
+tuna,100
+soy milk,30
+asparagus,20
+cheese,113
+chickpeas,269
+egg,78
+catfish,223
+strawberries,49
+asparagus,20
+lentils,116
+scallops,69
+chicken breast,165
+duck,300
+eggplant,20
+chickpeas,269
+tomato,22
+soy milk,30
+chicken breast,165
+almonds,164
+asparagus,20
+pork,242
+cucumber,16
+trout,109
+scallops,69
+cheese,113
+pepperoni,350
+avocado,234
+onion,40
+peas,59
+soy milk,30
+turkey,130
+prosciutto,280
+banana,105
+tuna,100
+potato,130
+duck,300
+mackerel,92
+bacon,50
+tuna,100
+peanut butter,188
+milk,103
+duck,300
+ham,300
+onion,40
+peach,39
+potato,130
+mushroom,15
+pear,101
+cabbage,25
+egg,78
+potato,130
+prosciutto,280
+black beans,227
+cabbage,25
+cheese,113
+anchovies,189
+asparagus,20
+peach,39
+catfish,223
+tilapia,45
+quinoa,120
+prosciutto,280
+almonds,164
+pear,101
+haddock,206
+bell pepper,24
+peach,39
+banana,105
+pear,101
+mackerel,92
+pineapple,82
+pear,101
+mackerel,92
+blueberries,84
+spinach,23
+shrimp,99
+onion,40
+asparagus,20
+pork,242
+eggplant,20
+corn,96
+sardines,105
+almond milk,46
+lobster,43
+orange,62
+avocado,234
+orange,62
+cod,22
+peach,39
+cabbage,25
+anchovies,189
+egg,78
+tuna,100
+lentils,116
+coconut milk,42
+pepperoni,350
+coconut milk,42
+salmon,208
+sardines,105
+pepperoni,350
+tilapia,45
+rice,206
+orange,62
+wheat,118
+spinach,23
+blueberries,84
+chicken breast,165
+cabbage,25
+soy milk,30
+beef,250
+sardines,105
+ham,300
+bread,79
+bread,79
+pasta,221
+cucumber,16
+mushroom,15
+yogurt,59
+bulgur,222
+mushroom,15
+egg,78
+chickpeas,269
+bulgur,222
+peach,39
+black beans,227
+eggplant,20
+ham,300
+clams,199
+milk,103
+sausage,200
+spinach,23
+pomegranate,234
+oats,110
+rye,45
+chicken breast,165
+grapes,62
+haddock,206
+cherry,50
+almond milk,46
+quinoa,120
+turkey,130
+catfish,223
+salmon,208
+anchovies,189
+corn,96
+salami,350
+watermelon,30
+wheat,118
+almond milk,46
+tomato,22
+almonds,164
+pomegranate,234
+rice,206
+almonds,164
+soy milk,30
+tomato,22
+lentils,116
+corn,96
+black beans,227
+kiwi,41
+shrimp,99
+catfish,223
+plum,46
+kiwi,41
+orange,62
+garlic,4
+cauliflower,22
+wheat,118
+bread,79
+chicken breast,165
+milk,103
+bell pepper,24
+peanut butter,188
+pork,242
+blueberries,84
+egg,78
+cauliflower,22
+eggplant,20
+beef,250
+trout,109
+banana,105
+pomegranate,234
+oysters,98
+onion,40
+cabbage,25
+coconut milk,42
+soy milk,30
+beef,250
+pepperoni,350
+banana,105
+clams,199
+cheese,113
+grapes,62
+shrimp,99
+cherry,50
+broccoli,55
+lamb,400
+bell pepper,24
+anchovies,189
+oats,110
+kiwi,41
+mushroom,15
+lettuce,15
+green beans,35
+watermelon,30
+potato,130
+carrot,25
+lobster,43
+beef,250
+tilapia,45
+haddock,206
+carrot,25
+anchovies,189
+apple,95
+broccoli,55
+almonds,164
+egg,78
+zucchini,33
+anchovies,189
+apple,95
+barley,193
+duck,300
+pepperoni,350
+grapes,62
+pomegranate,234
+green beans,35
+anchovies,189
+pomegranate,234
+corn,96
+eggplant,20
+oats,110
+grapes,62
+catfish,223
+orange,62
+almond milk,46
+almonds,164
+trout,109
+banana,105
+cod,22
+pomegranate,234
+almonds,164
+blueberries,84
+mango,201
+apple,95
+cherry,50
+clams,199
+rye,45
+oysters,98
+pear,101
+black beans,227
+trout,109
+bread,79
+almonds,164
+chickpeas,269
+zucchini,33
+lentils,116
+mango,201
+barley,193
+garlic,4
+oats,110
+zucchini,33
+lentils,116
+lettuce,15
+eggplant,20
+onion,40
+pepperoni,350
+lettuce,15
+mushroom,15
+kidney beans,112
+tilapia,45
+lentils,116
+egg,78
+salami,350
+apple,95
+egg,78
+mango,201
+broccoli,55
+prosciutto,280
+green beans,35
+plum,46
+lamb,400
+bulgur,222
+zucchini,33
+haddock,206
+pineapple,82
+ham,300
+cheese,113
+blueberries,84
+egg,78
+green beans,35
+anchovies,189
+tuna,100
+asparagus,20
+crab,83
+pear,101
+apple,95
+yogurt,59
+watermelon,30
+tilapia,45
+beef,250
+chickpeas,269
+peas,59
+oysters,98
+coconut milk,42
+shrimp,99
+duck,300
+clams,199
+turkey,130
+cod,22
+pear,101
+cabbage,25
+peas,59
+pasta,221
+cod,22
+mackerel,92
+watermelon,30
+sardines,105
+crab,83
+rice,206
+yogurt,59
+clams,199
+ham,300
+pasta,221
+lettuce,15
+sausage,200
+sardines,105
+apple,95
+quinoa,120
+scallops,69
+salami,350
+pork,242
+lamb,400
+anchovies,189
+scallops,69
+pork,242
+peanut butter,188
+yogurt,59
+soy milk,30
+pear,101
+corn,96
+cherry,50
+eggplant,20
+potato,130
+tuna,100
+trout,109
+haddock,206
+shrimp,99
+asparagus,20
+avocado,234
+chicken breast,165
+salami,350
+blueberries,84
+tuna,100
+peas,59
+shrimp,99
+clams,199
+grapes,62
+blueberries,84
+cucumber,16
+bread,79
+broccoli,55
+peas,59
+pomegranate,234
+catfish,223
+eggplant,20
+pork,242
+zucchini,33
+peas,59
+clams,199
+asparagus,20
+zucchini,33
+peanut butter,188
+lettuce,15
+tilapia,45
+green beans,35
+pork,242
+cucumber,16
+kiwi,41
+sardines,105
+black beans,227
+pork,242
+crab,83
+peanut butter,188
+pasta,221
+prosciutto,280
+yogurt,59
+plum,46
+trout,109
+crab,83
+kidney beans,112
+strawberries,49
+mango,201
+grapes,62
+cherry,50
+egg,78
+tofu,76
+kiwi,41
+pineapple,82
+milk,103
+banana,105
+corn,96
+mackerel,92
+rice,206
+sardines,105
+salmon,208
+haddock,206
+garlic,4
+pasta,221
+watermelon,30
+scallops,69
+turkey,130
+oats,110
+cauliflower,22
+almond milk,46
+cauliflower,22
+oats,110
+kiwi,41
+pepperoni,350
+crab,83
+salmon,208
+quinoa,120
+apple,95
+eggplant,20
+mushroom,15
+green beans,35
+pasta,221
+spinach,23
+peanut butter,188
+prosciutto,280
+avocado,234
+blueberries,84
+avocado,234
+pork,242
+carrot,25
+cauliflower,22
+tuna,100
+tomato,22
+tilapia,45
+corn,96
+blueberries,84
+pomegranate,234
+crab,83
+lentils,116
+tomato,22
+yogurt,59
+soy milk,30
+garlic,4
+haddock,206
+milk,103
+yogurt,59
+kiwi,41
+haddock,206
+bulgur,222
+oysters,98
+green beans,35
+corn,96
+pear,101
+peanut butter,188
+bacon,50
+spinach,23
+peas,59
+pomegranate,234
+pork,242
+cherry,50
+scallops,69
+peach,39
+potato,130
+carrot,25
+cod,22
+trout,109
+mackerel,92
+barley,193
+cucumber,16
+banana,105
+duck,300
+cherry,50
+salmon,208
+salami,350
+milk,103
+lobster,43
+cauliflower,22
+garlic,4
+cabbage,25
+sardines,105
+tomato,22
+soy milk,30
+asparagus,20
+yogurt,59
+crab,83
+cauliflower,22
+peach,39
+garlic,4
+kiwi,41
+kiwi,41
+chicken breast,165
+cod,22
+egg,78
+clams,199
+cabbage,25
+crab,83
+pasta,221
+corn,96
+soy milk,30
+banana,105
+soy milk,30
+broccoli,55
+eggplant,20
+strawberries,49
+peach,39
+peanut butter,188
+egg,78
+tuna,100
+lentils,116
+lobster,43
+eggplant,20
+wheat,118
+chicken breast,165
+prosciutto,280
+clams,199
+banana,105
+eggplant,20
+banana,105
+bacon,50
+cherry,50
+pineapple,82
+egg,78
+spinach,23
+eggplant,20
+wheat,118
+kiwi,41
+oysters,98
+mackerel,92
+watermelon,30
+green beans,35
+bulgur,222
+tilapia,45
+coconut milk,42
+pineapple,82
+bulgur,222
+tofu,76
+bread,79
+cheese,113
+tofu,76
+bread,79
+egg,78
+pepperoni,350
+chicken breast,165
+tofu,76
+pineapple,82
+lettuce,15
+broccoli,55
+pepperoni,350
+lamb,400
+pineapple,82
+peanut butter,188
+pepperoni,350
+clams,199
+spinach,23
+ham,300
+tuna,100
+peach,39
+pear,101
+tofu,76
+anchovies,189
+onion,40
+beef,250
+kiwi,41
+lettuce,15
+shrimp,99
+salami,350
+banana,105
+cod,22
+lamb,400
+sardines,105
+lobster,43
+kidney beans,112
+coconut milk,42
+lettuce,15
+blueberries,84
+crab,83
+ham,300
+bulgur,222
+orange,62
+cherry,50
+spinach,23
+zucchini,33
+pork,242
+prosciutto,280
+soy milk,30
+bread,79
+corn,96
+cauliflower,22
+onion,40
+ham,300
+mushroom,15
+cherry,50
+pineapple,82
+pineapple,82
+trout,109
+orange,62
+lobster,43
+tilapia,45
+salmon,208
+kidney beans,112
+beef,250
+cod,22
+pork,242
+peanut butter,188
+cherry,50
+shrimp,99
+banana,105
+cherry,50
+ham,300
+trout,109
+almonds,164
+ham,300
+carrot,25
+cucumber,16
+shrimp,99
+cucumber,16
+quinoa,120
+pear,101
+kiwi,41
+beef,250
+lamb,400
+tilapia,45
+quinoa,120
+kidney beans,112
+chicken breast,165
+cabbage,25
+orange,62
+cucumber,16
+pasta,221
+egg,78
+peanut butter,188
+crab,83
+cucumber,16
+catfish,223
+crab,83
+mushroom,15
+soy milk,30
+bread,79
+peach,39
+pasta,221
+watermelon,30
+trout,109
+almonds,164
+milk,103
+soy milk,30
+turkey,130
+orange,62
+peach,39
+zucchini,33
+banana,105
+soy milk,30
+lettuce,15
+sausage,200
+watermelon,30
+broccoli,55
+sausage,200
+plum,46
+carrot,25
+banana,105
+potato,130
+lentils,116
+watermelon,30
+oats,110
+catfish,223
+cod,22
+sausage,200
+avocado,234
+peanut butter,188
+cod,22
+grapes,62
+coconut milk,42
+salmon,208
+tilapia,45
+tofu,76
+rice,206
+rice,206
+bell pepper,24
+cheese,113
+kidney beans,112
+kidney beans,112
+kiwi,41
+onion,40
+lentils,116
+turkey,130
+turkey,130
+coconut milk,42
+salmon,208
+strawberries,49
+prosciutto,280
+beef,250
+scallops,69
+prosciutto,280
+broccoli,55
+bulgur,222
+banana,105
+coconut milk,42
+peanut butter,188
+catfish,223
+peanut butter,188
+carrot,25
+wheat,118
+garlic,4
+broccoli,55
+lamb,400
+pasta,221
+salami,350
+salami,350
+chickpeas,269
+ham,300
+mushroom,15
+peach,39
+kiwi,41
+bacon,50
+soy milk,30
+potato,130
+turkey,130
+peanut butter,188
+kidney beans,112
+bulgur,222
+blueberries,84
+crab,83
+plum,46
+kidney beans,112
+ham,300
+kidney beans,112
+mango,201
+onion,40
+cauliflower,22
+peanut butter,188
+cauliflower,22
+pasta,221
+duck,300
+cheese,113
+avocado,234
+cabbage,25
+apple,95
+banana,105
+soy milk,30
+peas,59
+mango,201
+carrot,25
+wheat,118
+soy milk,30
+peanut butter,188
+grapes,62
+sardines,105
+plum,46
+egg,78
+rye,45
+prosciutto,280
+tuna,100
+corn,96
+catfish,223
+cheese,113
+soy milk,30
+mushroom,15
+sausage,200
+oysters,98
+peach,39
+eggplant,20
+lamb,400
+egg,78
+mackerel,92
+tuna,100
+zucchini,33
+apple,95
+black beans,227
+tomato,22
+tomato,22
+cheese,113
+broccoli,55
+almonds,164
+peanut butter,188
+wheat,118
+watermelon,30
+potato,130
+kidney beans,112
+pork,242
+sausage,200
+salmon,208
+grapes,62
+black beans,227
+wheat,118
+broccoli,55
+broccoli,55
+egg,78
+duck,300
+carrot,25
+onion,40
+bacon,50
+egg,78
+cucumber,16
+cod,22
+shrimp,99
+catfish,223
+lentils,116
+lobster,43
+corn,96
+kiwi,41
+crab,83
+trout,109
+cabbage,25
+coconut milk,42
+carrot,25
+peanut butter,188
+kiwi,41
+bread,79
+banana,105
+pasta,221
+chickpeas,269
+peach,39
+tofu,76
+peach,39
+peach,39
+potato,130
+carrot,25
+pork,242
+cheese,113
+bell pepper,24
+milk,103
+bulgur,222
+cod,22
+cucumber,16
+rye,45
+trout,109
+spinach,23
+pineapple,82
+pepperoni,350
+salami,350
+eggplant,20
+peach,39
+black beans,227
+asparagus,20
+peanut butter,188
+peach,39
+garlic,4
+bread,79
+green beans,35
+milk,103
+peanut butter,188
+pasta,221
+peanut butter,188
+egg,78
+asparagus,20
+salmon,208
+lettuce,15
+sardines,105
+prosciutto,280
+spinach,23
+spinach,23
+mango,201
+pasta,221
+ham,300
+banana,105
+mango,201
+salami,350
+catfish,223
+kidney beans,112
+strawberries,49
+lentils,116
+catfish,223
+lettuce,15
+eggplant,20
+mackerel,92
+spinach,23
+zucchini,33
+pomegranate,234
+almond milk,46
+oats,110
+chicken breast,165
+turkey,130
+yogurt,59
+lettuce,15
+mango,201
+pineapple,82
+garlic,4
+cucumber,16
+egg,78
+wheat,118
+tofu,76
+tuna,100
+apple,95
+broccoli,55
+chicken breast,165
+lamb,400
+rice,206
+duck,300
+carrot,25
+peanut butter,188
+asparagus,20
+strawberries,49
+shrimp,99
+cabbage,25
+pasta,221
+avocado,234
+kiwi,41
+prosciutto,280
+wheat,118
+quinoa,120
+bread,79
+bacon,50
+trout,109
+beef,250
+plum,46
+chickpeas,269
+almonds,164
+sardines,105
+tofu,76
+clams,199
+oats,110
+sausage,200
+wheat,118
+rice,206
+rice,206
+almonds,164
+carrot,25
+tomato,22
+blueberries,84
+pomegranate,234
+salami,350
+quinoa,120
+peanut butter,188
+haddock,206
+onion,40
+asparagus,20
+rice,206
+soy milk,30
+barley,193
+mushroom,15
+almonds,164
+cheese,113
+scallops,69
+rice,206
+beef,250
+chicken breast,165
+tilapia,45
+wheat,118
+bulgur,222
+rice,206
+tomato,22
+plum,46
+pineapple,82
+ham,300
+yogurt,59
+watermelon,30
+soy milk,30
+soy milk,30
+yogurt,59
+corn,96
+turkey,130
+sausage,200
+spinach,23
+tomato,22
+anchovies,189
+pineapple,82
+wheat,118
+watermelon,30
+duck,300
+yogurt,59
+peas,59
+mushroom,15
+bulgur,222
+bulgur,222
+milk,103
+turkey,130
+green beans,35
+sardines,105
+barley,193
+mushroom,15
+pear,101
+cheese,113
+clams,199
+rice,206
+almonds,164
+green beans,35
+pork,242
+clams,199
+green beans,35
+trout,109
+sardines,105
+avocado,234
+tofu,76
+oysters,98
+almond milk,46
+carrot,25
+lentils,116
+chicken breast,165
+mackerel,92
+clams,199
+bacon,50
+black beans,227
+yogurt,59
+cauliflower,22
+cherry,50
+asparagus,20
+blueberries,84
+oysters,98
+duck,300
+pomegranate,234
+pepperoni,350
+corn,96
+peanut butter,188
+haddock,206
+duck,300
+broccoli,55
+clams,199
+rice,206
+garlic,4
+cherry,50
+apple,95
+tomato,22
+barley,193
+clams,199
+cabbage,25
+quinoa,120
+asparagus,20
+soy milk,30
+soy milk,30
+barley,193
+watermelon,30
+pepperoni,350
+tomato,22
+kiwi,41
+salami,350
+pineapple,82
+tomato,22
+pineapple,82
+prosciutto,280
+salmon,208
+cherry,50
+bulgur,222
+beef,250
+carrot,25
+tilapia,45
+tofu,76
+quinoa,120
+mackerel,92
+clams,199
+eggplant,20
+cod,22
+mushroom,15
+oats,110
+pepperoni,350
+ham,300
+barley,193
+peanut butter,188
+crab,83
+lentils,116
+pear,101
+salmon,208
+clams,199
+pork,242
+ham,300
+peach,39
+sardines,105
+almonds,164
+pork,242
+peas,59
+scallops,69
+peanut butter,188
+cauliflower,22
+blueberries,84
+beef,250
+barley,193
+pomegranate,234
+wheat,118
+peanut butter,188
+ham,300
+oysters,98
+chicken breast,165
+pomegranate,234
+corn,96
+yogurt,59
+salami,350
+bread,79
+almond milk,46
+cabbage,25
+pear,101
+lentils,116
+crab,83
+scallops,69
+prosciutto,280
+pear,101
+bacon,50
+tomato,22
+almond milk,46
+almond milk,46
+grapes,62
+wheat,118
+zucchini,33
+cabbage,25
+garlic,4
+prosciutto,280
+corn,96
+cheese,113
+clams,199
+clams,199
+lamb,400
+haddock,206
+salami,350
+broccoli,55
+banana,105
+spinach,23
+barley,193
+shrimp,99
+haddock,206
+tofu,76
+black beans,227
+garlic,4
+prosciutto,280
+anchovies,189
+bell pepper,24
+onion,40
+soy milk,30
+rye,45
+carrot,25
+duck,300
+turkey,130
+corn,96
+duck,300
+peach,39
+salmon,208
+peanut butter,188
+almonds,164
+blueberries,84
+crab,83
+prosciutto,280
+pork,242
+salami,350
+catfish,223
+prosciutto,280
+beef,250
+strawberries,49
+bell pepper,24
+wheat,118
+grapes,62
+blueberries,84
+turkey,130
+shrimp,99
+cucumber,16
+chicken breast,165
+tuna,100
+eggplant,20
+cauliflower,22
+orange,62
+garlic,4
+kidney beans,112
+lettuce,15
+lentils,116
+zucchini,33
+yogurt,59
+oysters,98
+black beans,227
+potato,130
+bread,79
+haddock,206
+egg,78
+tomato,22
+cabbage,25
+kiwi,41
+salami,350
+tuna,100
+bulgur,222
+avocado,234
+green beans,35
+pork,242
+peas,59
+ham,300
+cauliflower,22
+soy milk,30
+pepperoni,350
+clams,199
+bread,79
+banana,105
+salmon,208
+tilapia,45
+chicken breast,165
+chicken breast,165
+strawberries,49
+bell pepper,24
+pear,101
+apple,95
+egg,78
+peach,39
+peas,59
+rice,206
+clams,199
+yogurt,59
+peach,39
+avocado,234
+bread,79
+potato,130
+asparagus,20
+tofu,76
+apple,95
+turkey,130
+peanut butter,188
+pineapple,82
+pasta,221
+plum,46
+rice,206
+grapes,62
+rye,45
+strawberries,49
+oysters,98
+cucumber,16
+chicken breast,165
+crab,83
+cucumber,16
+almonds,164
+plum,46
+blueberries,84
+broccoli,55
+almond milk,46
+avocado,234
+lentils,116
+orange,62
+sausage,200
+soy milk,30
+eggplant,20
+potato,130
+shrimp,99
+green beans,35
+cod,22
+salami,350
+prosciutto,280
+chicken breast,165
+anchovies,189
+pineapple,82
+peanut butter,188
+grapes,62
+coconut milk,42
+pear,101
+salami,350
+cherry,50
+kidney beans,112
+plum,46
+cabbage,25
+black beans,227
+green beans,35
+ham,300
+wheat,118
+sardines,105
+barley,193
+lettuce,15
+peas,59
+spinach,23
+cheese,113
+oysters,98
+potato,130
+pork,242
+cherry,50
+pear,101
+pepperoni,350
+tofu,76
+plum,46
+shrimp,99
+bell pepper,24
+grapes,62
+green beans,35
+garlic,4
+clams,199
+cod,22
+almonds,164
+apple,95
+tuna,100
+turkey,130
+lobster,43
+rice,206
+wheat,118
+cucumber,16
+green beans,35
+onion,40
+pork,242
+turkey,130
+peanut butter,188
+barley,193
+chickpeas,269
+asparagus,20
+beef,250
+anchovies,189
+cheese,113
+garlic,4
+avocado,234
+mackerel,92
+catfish,223
+ham,300
+orange,62
+lettuce,15
+rye,45
+asparagus,20
+onion,40
+beef,250
+tuna,100
+coconut milk,42
+cherry,50
+yogurt,59
+pineapple,82
+trout,109
+pepperoni,350
+cucumber,16
+bell pepper,24
+beef,250
+blueberries,84
+spinach,23
+peas,59
+sausage,200
+black beans,227
+chicken breast,165
+cauliflower,22
+yogurt,59
+cod,22
+grapes,62
+pepperoni,350
+mushroom,15
+scallops,69
+trout,109
+turkey,130
+cod,22
+yogurt,59
+green beans,35
+beef,250
+onion,40
+chickpeas,269
+almond milk,46
+kiwi,41
+bell pepper,24
+bacon,50
+pineapple,82
+avocado,234
+duck,300
+pear,101
+kidney beans,112
+beef,250
+sardines,105
+chickpeas,269
+rye,45
+trout,109
+cabbage,25
+crab,83
+crab,83
+egg,78
+banana,105
+prosciutto,280
+cabbage,25
+bulgur,222
+tofu,76
+coconut milk,42
+peas,59
+pineapple,82
+bread,79
+cherry,50
+potato,130
+duck,300
+lentils,116
+salami,350
+peanut butter,188
+oysters,98
+peas,59
+almonds,164
+lobster,43
+eggplant,20
+pear,101
+cod,22
+almond milk,46
+avocado,234
+crab,83
+cherry,50
+bacon,50
+lamb,400
+egg,78
+mushroom,15
+green beans,35
+bell pepper,24
+anchovies,189
+quinoa,120
+anchovies,189
+asparagus,20
+green beans,35
+pork,242
+yogurt,59
+blueberries,84
+kidney beans,112
+spinach,23
+peanut butter,188
+black beans,227
+onion,40
+almonds,164
+mango,201
+black beans,227
+rice,206
+bulgur,222
+scallops,69
+grapes,62
+rice,206
+spinach,23
+anchovies,189
+mushroom,15
+lobster,43
+prosciutto,280
+shrimp,99
+plum,46
+bulgur,222
+apple,95
+tuna,100
+onion,40
+orange,62
+prosciutto,280
+cucumber,16
+ham,300
+cheese,113
+almond milk,46
+bread,79
+orange,62
+strawberries,49
+egg,78
+sausage,200
+lamb,400
+barley,193
+bell pepper,24
+beef,250
+cherry,50
+peas,59
+pepperoni,350
+oats,110
+corn,96
+pasta,221
+almond milk,46
+corn,96
+asparagus,20
+coconut milk,42
+egg,78
+zucchini,33
+almonds,164
+garlic,4
+salami,350
+corn,96
+duck,300
+coconut milk,42
+quinoa,120
+avocado,234
+pomegranate,234
+corn,96
+cabbage,25
+cheese,113
+peanut butter,188
+black beans,227
+rye,45
+garlic,4
+bulgur,222
+cabbage,25
+garlic,4
+pasta,221
+duck,300
+potato,130
+yogurt,59
+potato,130
+mackerel,92
+asparagus,20
+mushroom,15
+apple,95
+bell pepper,24
+yogurt,59
+anchovies,189
+tuna,100
+tuna,100
+almond milk,46
+bread,79
+almond milk,46
+pear,101
+mushroom,15
+oysters,98
+egg,78
+cucumber,16
+asparagus,20
+pineapple,82
+green beans,35
+corn,96
+green beans,35
+pepperoni,350
+ham,300
+milk,103
+shrimp,99
+crab,83
+pear,101
+kiwi,41
+ham,300
+yogurt,59
+grapes,62
+bell pepper,24
+pepperoni,350
+anchovies,189
+pork,242
+cabbage,25
+garlic,4
+banana,105
+turkey,130
+mango,201
+haddock,206
+shrimp,99
+black beans,227
+sardines,105
+mackerel,92
+carrot,25
+beef,250
+ham,300
+black beans,227
+cod,22
+garlic,4
+grapes,62
+chicken breast,165
+pepperoni,350
+clams,199
+strawberries,49
+banana,105
+onion,40
+chicken breast,165
+tofu,76
+bell pepper,24
+banana,105
+bacon,50
+cabbage,25
+bread,79
+cherry,50
+lamb,400
+bulgur,222
+mushroom,15
+catfish,223
+salami,350
+coconut milk,42
+corn,96
+cucumber,16
+lettuce,15
+tomato,22
+onion,40
+grapes,62
+peanut butter,188
+quinoa,120
+milk,103
+kiwi,41
+mushroom,15
+cod,22
+chickpeas,269
+pineapple,82
+soy milk,30
+peach,39
+lobster,43
+lobster,43
+grapes,62
+eggplant,20
+catfish,223
+cabbage,25
+turkey,130
+lettuce,15
+sardines,105
+peas,59
+peach,39
+barley,193
+pear,101
+tomato,22
+garlic,4
+plum,46
+oats,110
+grapes,62
+pomegranate,234
+salmon,208
+crab,83
+pomegranate,234
+oats,110
+lamb,400
+lamb,400
+green beans,35
+almonds,164
+yogurt,59
+mango,201
+haddock,206
+soy milk,30
+milk,103
+cherry,50
+zucchini,33
+potato,130
+corn,96
+onion,40
+duck,300
+oysters,98
+egg,78
+plum,46
+peas,59
+oats,110
+anchovies,189
+lamb,400
+watermelon,30
+rice,206
+lentils,116
+oysters,98
+pineapple,82
+rye,45
+lobster,43
+sardines,105
+mushroom,15
+rice,206
+blueberries,84
+strawberries,49
+asparagus,20
+duck,300
+black beans,227
+lentils,116
+orange,62
+rye,45
+pork,242
+pineapple,82
+cauliflower,22
+pomegranate,234
+cauliflower,22
+cherry,50
+orange,62
+crab,83
+milk,103
+cod,22
+mango,201
+mackerel,92
+rye,45
+green beans,35
+cheese,113
+spinach,23
+crab,83
+oysters,98
+pomegranate,234
+corn,96
+pasta,221
+plum,46
+prosciutto,280
+chickpeas,269
+black beans,227
+chicken breast,165
+cauliflower,22
+peach,39
+black beans,227
+salami,350
+asparagus,20
+peanut butter,188
+eggplant,20
+potato,130
+crab,83
+apple,95
+turkey,130
+tomato,22
+pasta,221
+potato,130
+black beans,227
+cheese,113
+ham,300
+prosciutto,280
+tomato,22
+yogurt,59
+pomegranate,234
+salami,350
+egg,78
+grapes,62
+broccoli,55
+cheese,113
+kiwi,41
+yogurt,59
+duck,300
+potato,130
+quinoa,120
+mushroom,15
+green beans,35
+bread,79
+peanut butter,188
+potato,130
+broccoli,55
+bacon,50
+oats,110
+almonds,164
+cabbage,25
+asparagus,20
+bread,79
+clams,199
+cheese,113
+yogurt,59
+blueberries,84
+peas,59
+kidney beans,112
+clams,199
+bulgur,222
+sardines,105
+pear,101
+coconut milk,42
+lettuce,15
+pork,242
+strawberries,49
+sardines,105
+duck,300
+bacon,50
+black beans,227
+chickpeas,269
+trout,109
+ham,300
+black beans,227
+green beans,35
+rice,206
+salmon,208
+cherry,50
+peas,59
+cod,22
+tuna,100
+mushroom,15
+bacon,50
+bacon,50
+tuna,100
+yogurt,59
+turkey,130
+onion,40
+lobster,43
+rye,45
+oysters,98
+pasta,221
+green beans,35
+almond milk,46
+watermelon,30
+tilapia,45
+spinach,23
+prosciutto,280
+zucchini,33
+lobster,43
+quinoa,120
+carrot,25
+cauliflower,22
+duck,300
+peanut butter,188
+tilapia,45
+anchovies,189
+shrimp,99
+cabbage,25
+tomato,22
+cherry,50
+oats,110
+pineapple,82
+barley,193
+green beans,35
+cherry,50
+yogurt,59
+egg,78
+blueberries,84
+scallops,69
+pineapple,82
+salmon,208
+lobster,43
+lamb,400
+kiwi,41
+cucumber,16
+pomegranate,234
+apple,95
+pork,242
+pomegranate,234
+pasta,221
+egg,78
+broccoli,55
+soy milk,30
+cod,22
+apple,95
+kiwi,41
+cherry,50
+shrimp,99
+turkey,130
+lettuce,15
+avocado,234
+plum,46
+asparagus,20
+trout,109
+rice,206
+pineapple,82
+sardines,105
+tuna,100
+chicken breast,165
+beef,250
+soy milk,30
+mackerel,92
+mushroom,15
+plum,46
+mushroom,15
+almond milk,46
+sausage,200
+tofu,76
+shrimp,99
+bell pepper,24
+cheese,113
+plum,46
+tofu,76
+soy milk,30
+shrimp,99
+shrimp,99
+pasta,221
+oats,110
+watermelon,30
+plum,46
+garlic,4
+lobster,43
+egg,78
+trout,109
+bulgur,222
+strawberries,49
+chickpeas,269
+garlic,4
+lamb,400
+cheese,113
+pineapple,82
+chickpeas,269
+pasta,221
+peanut butter,188
+yogurt,59
+chickpeas,269
+yogurt,59
+barley,193
+cucumber,16
+prosciutto,280
+watermelon,30
+bacon,50
+bulgur,222
+lettuce,15
+peach,39
+coconut milk,42
+haddock,206
+carrot,25
+tuna,100
+quinoa,120
+kidney beans,112
+almonds,164
+peach,39
+beef,250
+lentils,116
+grapes,62
+chickpeas,269
+tomato,22
+catfish,223
+spinach,23
+pineapple,82
+turkey,130
+rice,206
+mackerel,92
+rye,45
+egg,78
+ham,300
+bread,79
+watermelon,30
+trout,109
+plum,46
+ham,300
+sardines,105
+anchovies,189
+corn,96
+catfish,223
+barley,193
+blueberries,84
+milk,103
+prosciutto,280
+onion,40
+bacon,50
+lentils,116
+egg,78
+cabbage,25
+orange,62
+oysters,98
+eggplant,20
+duck,300
+mango,201
+grapes,62
+potato,130
+lamb,400
+yogurt,59
+avocado,234
+strawberries,49
+plum,46
+eggplant,20
+crab,83
+ham,300
+pork,242
+black beans,227
+pasta,221
+sausage,200
+corn,96
+clams,199
+oats,110
+anchovies,189
+black beans,227
+pomegranate,234
+cheese,113
+wheat,118
+mango,201
+pear,101
+soy milk,30
+bulgur,222
+carrot,25
+green beans,35
+lettuce,15
+salami,350
+peanut butter,188
+pasta,221
+pear,101
+tomato,22
+potato,130
+cheese,113
+crab,83
+green beans,35
+cucumber,16
+cod,22
+peanut butter,188
+pepperoni,350
+sausage,200
+sausage,200
+bread,79
+pomegranate,234
+cauliflower,22
+cheese,113
+peas,59
+grapes,62
+cabbage,25
+green beans,35
+milk,103
+trout,109
+scallops,69
+pasta,221
+ham,300
+pasta,221
+watermelon,30
+banana,105
+tofu,76
+avocado,234
+cod,22
+onion,40
+sardines,105
+quinoa,120
+oats,110
+prosciutto,280
+mushroom,15
+plum,46
+avocado,234
+egg,78
+salmon,208
+kiwi,41
+milk,103
+chicken breast,165
+grapes,62
+clams,199
+eggplant,20
+peanut butter,188
+grapes,62
+quinoa,120
+quinoa,120
+lamb,400
+peanut butter,188
+pasta,221
+barley,193
+corn,96
+quinoa,120
+carrot,25
+chickpeas,269
+eggplant,20
+green beans,35
+chickpeas,269
+haddock,206
+asparagus,20
+pasta,221
+pomegranate,234
+tomato,22
+banana,105
+prosciutto,280
+bacon,50
+beef,250
+carrot,25
+cherry,50
+cucumber,16
+chicken breast,165
+cheese,113
+bread,79
+quinoa,120
+tomato,22
+mango,201
+zucchini,33
+cucumber,16
+soy milk,30
+lamb,400
+pepperoni,350
+grapes,62
+tofu,76
+green beans,35
+bacon,50
+wheat,118
+anchovies,189
+strawberries,49
+chickpeas,269
+cauliflower,22
+rye,45
+green beans,35
+plum,46
+pomegranate,234
+orange,62
+salmon,208
+cucumber,16
+pear,101
+bulgur,222
+wheat,118
+salmon,208
+barley,193
+bread,79
+tofu,76
+tilapia,45
+zucchini,33
+mackerel,92
+salmon,208
+black beans,227
+cod,22
+peach,39
+sardines,105
+egg,78
+tuna,100
+mushroom,15
+prosciutto,280
+rye,45
+rice,206
+lobster,43
+mango,201
+mango,201
+grapes,62
+mackerel,92
+catfish,223
+eggplant,20
+rice,206
+avocado,234
+broccoli,55
+oats,110
+pepperoni,350
+lentils,116
+sardines,105
+pork,242
+peach,39
+grapes,62
+spinach,23
+cheese,113
+rye,45
+scallops,69
+barley,193
+blueberries,84
+cucumber,16
+carrot,25
+mushroom,15
+sausage,200
+potato,130
+mackerel,92
+chickpeas,269
+tuna,100
+crab,83
+grapes,62
+sardines,105
+lamb,400
+corn,96
+green beans,35
+kidney beans,112
+quinoa,120
+soy milk,30
+barley,193
+green beans,35
+watermelon,30
+asparagus,20
+blueberries,84
+broccoli,55
+pepperoni,350
+kidney beans,112
+sardines,105
+quinoa,120
+pear,101
+lentils,116
+onion,40
+strawberries,49
+pork,242
+almond milk,46
+peanut butter,188
+asparagus,20
+oysters,98
+orange,62
+onion,40
+coconut milk,42
+prosciutto,280
+coconut milk,42
+ham,300
+trout,109
+haddock,206
+asparagus,20
+pasta,221
+chicken breast,165
+orange,62
+egg,78
+eggplant,20
+pear,101
+bacon,50
+sardines,105
+mackerel,92
+lentils,116
+potato,130
+grapes,62
+clams,199
+cabbage,25
+tofu,76
+crab,83
+peas,59
+oats,110
+duck,300
+rye,45
+coconut milk,42
+anchovies,189
+potato,130
+milk,103
+yogurt,59
+bulgur,222
+ham,300
+blueberries,84
+orange,62
+rice,206
+mango,201
+rye,45
+cheese,113
+zucchini,33
+tilapia,45
+shrimp,99
+plum,46
+egg,78
+pasta,221
+egg,78
+lamb,400
+zucchini,33
+garlic,4
+bacon,50
+rye,45
+pepperoni,350
+prosciutto,280
+prosciutto,280
+eggplant,20
+avocado,234
+pomegranate,234
+haddock,206
+kiwi,41
+grapes,62
+cauliflower,22
+zucchini,33
+salami,350
+cauliflower,22
+shrimp,99
+bulgur,222
+tuna,100
+peas,59
+spinach,23
+strawberries,49
+lobster,43
+pasta,221
+mushroom,15
+carrot,25
+avocado,234
+quinoa,120
+strawberries,49
+plum,46
+apple,95
+peach,39
+scallops,69
+lobster,43
+pepperoni,350
+almonds,164
+cherry,50
+trout,109
+cheese,113
+milk,103
+mushroom,15
+pepperoni,350
+chickpeas,269
+ham,300
+crab,83
+lamb,400
+apple,95
+wheat,118
+blueberries,84
+almonds,164
+carrot,25
+rye,45
+sardines,105
+cabbage,25
+broccoli,55
+lamb,400
+cheese,113
+spinach,23
+cabbage,25
+crab,83
+oysters,98
+potato,130
+oats,110
+black beans,227
+peanut butter,188
+anchovies,189
+blueberries,84
+yogurt,59
+soy milk,30
+scallops,69
+green beans,35
+scallops,69
+blueberries,84
+bell pepper,24
+broccoli,55
+peanut butter,188
+trout,109
+rice,206
+lettuce,15
+pepperoni,350
+pork,242
+egg,78
+cabbage,25
+yogurt,59
+asparagus,20
+grapes,62
+crab,83
+pork,242
+pomegranate,234
+apple,95
+lobster,43
+tomato,22
+strawberries,49
+bell pepper,24
+turkey,130
+almond milk,46
+kiwi,41
+tomato,22
+tomato,22
+rice,206
+lobster,43
+plum,46
+barley,193
+corn,96
+chickpeas,269
+lettuce,15
+oysters,98
+chickpeas,269
+coconut milk,42
+cabbage,25
+barley,193
+soy milk,30
+quinoa,120
+clams,199
+barley,193
+carrot,25
+bell pepper,24
+salmon,208
+onion,40
+salami,350
+almond milk,46
+pepperoni,350
+chicken breast,165
+black beans,227
+prosciutto,280
+green beans,35
+crab,83
+anchovies,189
+onion,40
+kiwi,41
+cabbage,25
+oysters,98
+pasta,221
+wheat,118
+lentils,116
+pineapple,82
+coconut milk,42
+cucumber,16
+strawberries,49
+black beans,227
+trout,109
+barley,193
+green beans,35
+garlic,4
+tofu,76
+spinach,23
+salami,350
+quinoa,120
+peanut butter,188
+tuna,100
+tofu,76
+rye,45
+watermelon,30
+cauliflower,22
+haddock,206
+peach,39
+rye,45
+plum,46
+avocado,234
+bacon,50
+potato,130
+carrot,25
+prosciutto,280
+cheese,113
+crab,83
+peas,59
+kidney beans,112
+cucumber,16
+peanut butter,188
+lamb,400
+turkey,130
+black beans,227
+kiwi,41
+bacon,50
+shrimp,99
+pork,242
+garlic,4
+clams,199
+apple,95
+lettuce,15
+garlic,4
+barley,193
+bacon,50
+plum,46
+cabbage,25
+cod,22
+pasta,221
+clams,199
+orange,62
+pepperoni,350
+kidney beans,112
+chicken breast,165
+bacon,50
+turkey,130
+corn,96
+anchovies,189
+green beans,35
+bulgur,222
+duck,300
+lamb,400
+bacon,50
+lobster,43
+pork,242
+peach,39
+crab,83
+milk,103
+sausage,200
+zucchini,33
+cherry,50
+trout,109
+wheat,118
+pear,101
+beef,250
+plum,46
+almond milk,46
+rice,206
+rye,45
+mango,201
+sausage,200
+orange,62
+corn,96
+bell pepper,24
+sausage,200
+lamb,400
+oysters,98
+strawberries,49
+tilapia,45
+orange,62
+pasta,221
+duck,300
+coconut milk,42
+yogurt,59
+anchovies,189
+tilapia,45
+zucchini,33
+haddock,206
+almonds,164
+crab,83
+eggplant,20
+lettuce,15
+banana,105
+spinach,23
+barley,193
+tuna,100
+salmon,208
+trout,109
+oats,110
+lobster,43
+tofu,76
+sausage,200
+black beans,227
+ham,300
+tilapia,45
+tuna,100
+bread,79
+chickpeas,269
+sardines,105
+broccoli,55
+strawberries,49
+bread,79
+cheese,113
+orange,62
+broccoli,55
+barley,193
+grapes,62
+trout,109
+oysters,98
+rye,45
+pear,101
+coconut milk,42
+lentils,116
+yogurt,59
+prosciutto,280
+oysters,98
+shrimp,99
+green beans,35
+garlic,4
+crab,83
+pear,101
+pasta,221
+pepperoni,350
+quinoa,120
+salmon,208
+catfish,223
+beef,250
+yogurt,59
+quinoa,120
+almonds,164
+mango,201
+tomato,22
+ham,300
+turkey,130
+haddock,206
+barley,193
+egg,78
+coconut milk,42
+mango,201
+haddock,206
+cheese,113
+shrimp,99
+orange,62
+wheat,118
+oysters,98
+grapes,62
+coconut milk,42
+cabbage,25
+oysters,98
+ham,300
+pepperoni,350
+cabbage,25
+corn,96
+corn,96
+anchovies,189
+scallops,69
+chicken breast,165
+carrot,25
+cherry,50
+tilapia,45
+banana,105
+tomato,22
+haddock,206
+onion,40
+spinach,23
+blueberries,84
+zucchini,33
+bulgur,222
+garlic,4
+mango,201
+almonds,164
+cabbage,25
+quinoa,120
+almonds,164
+yogurt,59
+pepperoni,350
+shrimp,99
+pineapple,82
+chickpeas,269
+plum,46
+spinach,23
+lobster,43
+orange,62
+catfish,223
+strawberries,49
+carrot,25
+cod,22
+peas,59
+clams,199
+rye,45
+rye,45
+banana,105
+mango,201
+crab,83
+lamb,400
+sausage,200
+blueberries,84
+carrot,25
+chickpeas,269
+catfish,223
+rye,45
+spinach,23
+black beans,227
+peas,59
+peanut butter,188
+spinach,23
+pineapple,82
+cucumber,16
+grapes,62
+lamb,400
+mushroom,15
+crab,83
+salmon,208
+corn,96
+avocado,234
+kiwi,41
+sausage,200
+apple,95
+carrot,25
+kiwi,41
+cod,22
+asparagus,20
+peach,39
+peach,39
+orange,62
+peas,59
+onion,40
+cheese,113
+haddock,206
+strawberries,49
+quinoa,120
+lentils,116
+cherry,50
+salami,350
+cucumber,16
+grapes,62
+pork,242
+rice,206
+cod,22
+strawberries,49
+blueberries,84
+yogurt,59
+cheese,113
+zucchini,33
+cabbage,25
+cauliflower,22
+lentils,116
+pepperoni,350
+bell pepper,24
+garlic,4
+lettuce,15
+kidney beans,112
+green beans,35
+turkey,130
+oysters,98
+zucchini,33
+peas,59
+plum,46
+bell pepper,24
+sardines,105
+almond milk,46
+lentils,116
+lobster,43
+coconut milk,42
+wheat,118
+pear,101
+sardines,105
+tofu,76
+ham,300
+peas,59
+carrot,25
+ham,300
+onion,40
+yogurt,59
+kiwi,41
+rye,45
+turkey,130
+mackerel,92
+asparagus,20
+chicken breast,165
+haddock,206
+lamb,400
+egg,78
+black beans,227
+bacon,50
+cod,22
+orange,62
+garlic,4
+soy milk,30
+grapes,62
+quinoa,120
+pomegranate,234
+avocado,234
+ham,300
+oats,110
+rye,45
+salami,350
+banana,105
+almond milk,46
+wheat,118
+soy milk,30
+bell pepper,24
+kiwi,41
+pomegranate,234
+catfish,223
+milk,103
+turkey,130
+spinach,23
+potato,130
+wheat,118
+barley,193
+mackerel,92
+rice,206
+prosciutto,280
+salmon,208
+almond milk,46
+quinoa,120
+crab,83
+catfish,223
+apple,95
+bulgur,222
+chicken breast,165
+trout,109
+onion,40
+apple,95
+onion,40
+salami,350
+mango,201
+broccoli,55
+haddock,206
+peanut butter,188
+scallops,69
+lobster,43
+green beans,35
+pepperoni,350
+sausage,200
+cherry,50
+crab,83
+oysters,98
+apple,95
+crab,83
+bread,79
+soy milk,30
+strawberries,49
+oats,110
+lettuce,15
+cucumber,16
+peanut butter,188
+almond milk,46
+turkey,130
+kidney beans,112
+cucumber,16
+bulgur,222
+asparagus,20
+peach,39
+bulgur,222
+broccoli,55
+kiwi,41
+corn,96
+wheat,118
+garlic,4
+tilapia,45
+salami,350
+almond milk,46
+avocado,234
+orange,62
+cherry,50
+garlic,4
+spinach,23
+cabbage,25
+broccoli,55
+cauliflower,22
+bacon,50
+anchovies,189
+tilapia,45
+lobster,43
+pineapple,82
+barley,193
+prosciutto,280
+cod,22
+mango,201
+pomegranate,234
+pasta,221
+peach,39
+asparagus,20
+lettuce,15
+mushroom,15
+cheese,113
+salami,350
+shrimp,99
+orange,62
+milk,103
+spinach,23
+pear,101
+pineapple,82
+bacon,50
+peach,39
+cauliflower,22
+trout,109
+carrot,25
+kiwi,41
+plum,46
+cod,22
+grapes,62
+potato,130
+trout,109
+garlic,4
+green beans,35
+yogurt,59
+pork,242
+grapes,62
+tomato,22
+tuna,100
+avocado,234
+green beans,35
+pear,101
+coconut milk,42
+yogurt,59
+lobster,43
+haddock,206
+bell pepper,24
+green beans,35
+lamb,400
+mango,201
+lentils,116
+pasta,221
+apple,95
+plum,46
+peas,59
+mackerel,92
+peas,59
+corn,96
+duck,300
+almond milk,46
+mango,201
+garlic,4
+blueberries,84
+cheese,113
+scallops,69
+pasta,221
+oysters,98
+blueberries,84
+corn,96
+lobster,43
+salmon,208
+wheat,118
+corn,96
+chickpeas,269
+lamb,400
+coconut milk,42
+cheese,113
+zucchini,33
+cucumber,16
+chicken breast,165
+catfish,223
+mango,201
+peach,39
+blueberries,84
+tofu,76
+cucumber,16
+quinoa,120
+grapes,62
+cod,22
+oats,110
+lamb,400
+prosciutto,280
+tilapia,45
+cabbage,25
+black beans,227
+scallops,69
+trout,109
+mango,201
+sausage,200
+yogurt,59
+shrimp,99
+cabbage,25
+mushroom,15
+pork,242
+chicken breast,165
+potato,130
+chickpeas,269
+asparagus,20
+pineapple,82
+barley,193
+milk,103
+black beans,227
+peas,59
+shrimp,99
+egg,78
+spinach,23
+orange,62
+anchovies,189
+barley,193
+kiwi,41
+catfish,223
+barley,193
+corn,96
+mushroom,15
+ham,300
+shrimp,99
+mackerel,92
+mushroom,15
+catfish,223
+almonds,164
+duck,300
+lobster,43
+sausage,200
+chicken breast,165
+quinoa,120
+trout,109
+duck,300
+bell pepper,24
+rye,45
+bulgur,222
+coconut milk,42
+rice,206
+soy milk,30
+sardines,105
+pineapple,82
+banana,105
+coconut milk,42
+corn,96
+avocado,234
+watermelon,30
+almond milk,46
+catfish,223
+peas,59
+cucumber,16
+kiwi,41
+egg,78
+cod,22
+wheat,118
+mushroom,15
+coconut milk,42
+garlic,4
+wheat,118
+bacon,50
+sausage,200
+duck,300
+eggplant,20
+mango,201
+rye,45
+scallops,69
+avocado,234
+orange,62
+mango,201
+wheat,118
+cheese,113
+tofu,76
+chicken breast,165
+peanut butter,188
+duck,300
+kiwi,41
+prosciutto,280
+coconut milk,42
+cauliflower,22
+anchovies,189
+cauliflower,22
+almond milk,46
+pasta,221
+potato,130
+quinoa,120
+tofu,76
+egg,78
+rye,45
+barley,193
+bell pepper,24
+rye,45
+banana,105
+anchovies,189
+carrot,25
+eggplant,20
+potato,130
+catfish,223
+tilapia,45
+bacon,50
+banana,105
+lentils,116
+bread,79
+lettuce,15
+milk,103
+coconut milk,42
+coconut milk,42
+onion,40
+lobster,43
+onion,40
+lobster,43
+almond milk,46
+apple,95
+mushroom,15
+grapes,62
+peanut butter,188
+pasta,221
+strawberries,49
+salmon,208
+spinach,23
+haddock,206
+chickpeas,269
+catfish,223
+catfish,223
+rice,206
+lettuce,15
+clams,199
+pepperoni,350
+pepperoni,350
+anchovies,189
+pear,101
+grapes,62
+egg,78
+apple,95
+pomegranate,234
+turkey,130
+spinach,23
+clams,199
+peanut butter,188
+cherry,50
+catfish,223
+broccoli,55
+soy milk,30
+asparagus,20
+lentils,116
+peas,59
+orange,62
+oats,110
+rye,45
+mango,201
+scallops,69
+mackerel,92
+milk,103
+banana,105
+egg,78
+sardines,105
+quinoa,120
+onion,40
+peas,59
+strawberries,49
+almonds,164
+bread,79
+zucchini,33
+almond milk,46
+watermelon,30
+almond milk,46
+haddock,206
+lobster,43
+cherry,50
+pork,242
+tofu,76
+pasta,221
+cherry,50
+sardines,105
+rye,45
+peanut butter,188
+quinoa,120
+sardines,105
+pineapple,82
+peas,59
+cherry,50
+prosciutto,280
+onion,40
+watermelon,30
+trout,109
+tomato,22
+corn,96
+peach,39
+bulgur,222
+catfish,223
+wheat,118
+chicken breast,165
+tilapia,45
+oysters,98
+salami,350
+carrot,25
+sausage,200
+cucumber,16
+crab,83
+almond milk,46
+mango,201
+yogurt,59
+zucchini,33
+shrimp,99
+haddock,206
+almond milk,46
+zucchini,33
+cucumber,16
+almonds,164
+peas,59
+sausage,200
+tomato,22
+potato,130
+bulgur,222
+grapes,62
+oysters,98
+turkey,130
+rye,45
+broccoli,55
+black beans,227
+peanut butter,188
+bread,79
+lentils,116
+rice,206
+cauliflower,22
+pepperoni,350
+onion,40
+cucumber,16
+beef,250
+sardines,105
+peach,39
+potato,130
+almond milk,46
+milk,103
+strawberries,49
+bulgur,222
+quinoa,120
+ham,300
+sardines,105
+peanut butter,188
+eggplant,20
+broccoli,55
+cabbage,25
+rye,45
+quinoa,120
+haddock,206
+spinach,23
+sausage,200
+lamb,400
+duck,300
+scallops,69
+rice,206
+lamb,400
+pork,242
+anchovies,189
+spinach,23
+prosciutto,280
+green beans,35
+bacon,50
+asparagus,20
+beef,250
+lentils,116
+almonds,164
+lentils,116
+pear,101
+rye,45
+zucchini,33
+catfish,223
+bread,79
+bell pepper,24
+almonds,164
+onion,40
+chicken breast,165
+grapes,62
+oats,110
+pasta,221
+mackerel,92
+shrimp,99
+pomegranate,234
+corn,96
+shrimp,99
+kiwi,41
+quinoa,120
+blueberries,84
+sardines,105
+tuna,100
+bell pepper,24
+zucchini,33
+spinach,23
+almonds,164
+egg,78
+mango,201
+bell pepper,24
+pineapple,82
+bacon,50
+pepperoni,350
+bulgur,222
+tofu,76
+asparagus,20
+coconut milk,42
+salmon,208
+tilapia,45
+mushroom,15
+rye,45
+oats,110
+peas,59
+strawberries,49
+chickpeas,269
+cod,22
+cherry,50
+black beans,227
+pepperoni,350
+pomegranate,234
+bacon,50
+barley,193
+egg,78
+catfish,223
+almonds,164
+chickpeas,269
+bread,79
+corn,96
+cheese,113
+duck,300
+cauliflower,22
+mango,201
+yogurt,59
+potato,130
+lentils,116
+scallops,69
+wheat,118
+plum,46
+almonds,164
+lentils,116
+carrot,25
+peach,39
+kidney beans,112
+pork,242
+pepperoni,350
+chicken breast,165
+pomegranate,234
+bell pepper,24
+tuna,100
+bell pepper,24
+oats,110
+lettuce,15
+potato,130
+duck,300
+egg,78
+oats,110
+soy milk,30
+carrot,25
+garlic,4
+grapes,62
+corn,96
+kiwi,41
+pasta,221
+kiwi,41
+blueberries,84
+prosciutto,280
+rice,206
+ham,300
+duck,300
+onion,40
+spinach,23
+banana,105
+watermelon,30
+potato,130
+asparagus,20
+coconut milk,42
+oysters,98
+duck,300
+carrot,25
+bell pepper,24
+tomato,22
+eggplant,20
+soy milk,30
+coconut milk,42
+cheese,113
+lamb,400
+barley,193
+bulgur,222
+chickpeas,269
+oats,110
+avocado,234
+spinach,23
+pasta,221
+peas,59
+milk,103
+anchovies,189
+bell pepper,24
+cheese,113
+pork,242
+pork,242
+catfish,223
+turkey,130
+garlic,4
+pasta,221
+bacon,50
+peach,39
+avocado,234
+bell pepper,24
+almonds,164
+salami,350
+ham,300
+mackerel,92
+tilapia,45
+cod,22
+turkey,130
+anchovies,189
+eggplant,20
+onion,40
+sausage,200
+soy milk,30
+scallops,69
+peas,59
+milk,103
+tofu,76
+bulgur,222
+garlic,4
+crab,83
+rye,45
+coconut milk,42
+pasta,221
+bacon,50
+orange,62
+sausage,200
+mackerel,92
+soy milk,30
+beef,250
+quinoa,120
+rice,206
+garlic,4
+tuna,100
+cucumber,16
+mackerel,92
+peach,39
+rye,45
+turkey,130
+onion,40
+chickpeas,269
+lobster,43
+grapes,62
+chicken breast,165
+tilapia,45
+spinach,23
+onion,40
+tuna,100
+tuna,100
+coconut milk,42
+barley,193
+orange,62
+trout,109
+peach,39
+carrot,25
+chicken breast,165
+rye,45
+anchovies,189
+corn,96
+rye,45
+watermelon,30
+oysters,98
+coconut milk,42
+kidney beans,112
+cabbage,25
+watermelon,30
+salami,350
+pepperoni,350
+spinach,23
+rice,206
+pasta,221
+mushroom,15
+cauliflower,22
+corn,96
+almonds,164
+mackerel,92
+bacon,50
+quinoa,120
+kiwi,41
+apple,95
+pork,242
+mackerel,92
+cheese,113
+tomato,22
+wheat,118
+tuna,100
+lettuce,15
+asparagus,20
+tuna,100
+egg,78
+rye,45
+rye,45
+pasta,221
+garlic,4
+grapes,62
+almond milk,46
+tofu,76
+banana,105
+ham,300
+cheese,113
+pineapple,82
+pasta,221
+ham,300
+pasta,221
+zucchini,33
+salami,350
+peanut butter,188
+bulgur,222
+bacon,50
+bell pepper,24
+sausage,200
+pork,242
+cod,22
+kidney beans,112
+haddock,206
+chickpeas,269
+kidney beans,112
+pineapple,82
+pear,101
+barley,193
+kidney beans,112
+avocado,234
+quinoa,120
+apple,95
+eggplant,20
+sardines,105
+tilapia,45
+avocado,234
+peach,39
+pork,242
+bread,79
+trout,109
+barley,193
+egg,78
+tuna,100
+strawberries,49
+coconut milk,42
+bread,79
+lamb,400
+cauliflower,22
+coconut milk,42
+potato,130
+zucchini,33
+cheese,113
+peach,39
+salami,350
+salami,350
+bell pepper,24
+lettuce,15
+oats,110
+orange,62
+prosciutto,280
+lentils,116
+pomegranate,234
+duck,300
+quinoa,120
+tuna,100
+corn,96
+potato,130
+corn,96
+peanut butter,188
+shrimp,99
+turkey,130
+sausage,200
+grapes,62
+cheese,113
+orange,62
+yogurt,59
+oats,110
+grapes,62
+shrimp,99
+onion,40
+pomegranate,234
+crab,83
+prosciutto,280
+corn,96
+zucchini,33
+kiwi,41
+wheat,118
+pasta,221
+kidney beans,112
+wheat,118
+peach,39
+bacon,50
+soy milk,30
+sausage,200
+wheat,118
+oats,110
+grapes,62
+apple,95
+cauliflower,22
+ham,300
+peas,59
+bell pepper,24
+turkey,130
+anchovies,189
+tuna,100
+tilapia,45
+rice,206
+onion,40
+strawberries,49
+avocado,234
+tofu,76
+oats,110
+anchovies,189
+watermelon,30
+beef,250
+cucumber,16
+plum,46
+lobster,43
+tomato,22
+cod,22
+blueberries,84
+almonds,164
+duck,300
+carrot,25
+sausage,200
+lobster,43
+tomato,22
+broccoli,55
+lobster,43
+wheat,118
+strawberries,49
+tilapia,45
+pork,242
+cherry,50
+anchovies,189
+chickpeas,269
+eggplant,20
+blueberries,84
+green beans,35
+plum,46
+lentils,116
+pepperoni,350
+bread,79
+rice,206
+peas,59
+bulgur,222
+apple,95
+shrimp,99
+pineapple,82
+chicken breast,165
+peanut butter,188
+pepperoni,350
+corn,96
+prosciutto,280
+salami,350
+coconut milk,42
+onion,40
+pork,242
+kidney beans,112
+catfish,223
+asparagus,20
+cucumber,16
+peanut butter,188
+broccoli,55
+clams,199
+green beans,35
+crab,83
+milk,103
+peanut butter,188
+prosciutto,280
+lettuce,15
+duck,300
+lobster,43
+bell pepper,24
+carrot,25
+kidney beans,112
+tuna,100
+sardines,105
+almond milk,46
+duck,300
+broccoli,55
+chickpeas,269
+bulgur,222
+pomegranate,234
+oats,110
+rye,45
+oysters,98
+cod,22
+rye,45
+banana,105
+lamb,400
+soy milk,30
+black beans,227
+pineapple,82
+potato,130
+anchovies,189
+garlic,4
+mackerel,92
+tuna,100
+turkey,130
+duck,300
+almond milk,46
+quinoa,120
+cod,22
+wheat,118
+salami,350
+oats,110
+plum,46
+watermelon,30
+kidney beans,112
+anchovies,189
+apple,95
+bulgur,222
+spinach,23
+bell pepper,24
+apple,95
+lamb,400
+turkey,130
+quinoa,120
+cauliflower,22
+peanut butter,188
+catfish,223
+bacon,50
+spinach,23
+onion,40
+tilapia,45
+egg,78
+coconut milk,42
+green beans,35
+cheese,113
+cheese,113
+pasta,221
+cheese,113
+onion,40
+bacon,50
+trout,109
+mushroom,15
+orange,62
+cherry,50
+beef,250
+tuna,100
+almond milk,46
+pork,242
+quinoa,120
+strawberries,49
+pasta,221
+watermelon,30
+cherry,50
+soy milk,30
+orange,62
+oysters,98
+prosciutto,280
+wheat,118
+corn,96
+lettuce,15
+plum,46
+blueberries,84
+green beans,35
+broccoli,55
+almonds,164
+orange,62
+clams,199
+rye,45
+duck,300
+milk,103
+rice,206
+cheese,113
+beef,250
+trout,109
+pasta,221
+salmon,208
+eggplant,20
+pork,242
+yogurt,59
+turkey,130
+cherry,50
+bacon,50
+cherry,50
+yogurt,59
+almonds,164
+cherry,50
+peach,39
+peas,59
+eggplant,20
+tomato,22
+almond milk,46
+cheese,113
+scallops,69
+lentils,116
+lamb,400
+peach,39
+kiwi,41
+pasta,221
+clams,199
+wheat,118
+beef,250
+pomegranate,234
+catfish,223
+crab,83
+bell pepper,24
+rye,45
+tilapia,45
+tofu,76
+coconut milk,42
+rice,206
+mushroom,15
+grapes,62
+shrimp,99
+watermelon,30
+chicken breast,165
+egg,78
+tomato,22
+pork,242
+zucchini,33
+watermelon,30
+cod,22
+mushroom,15
+shrimp,99
+egg,78
+scallops,69
+barley,193
+tilapia,45
+pineapple,82
+haddock,206
+milk,103
+oysters,98
+garlic,4
+soy milk,30
+zucchini,33
+mushroom,15
+lettuce,15
+oysters,98
+orange,62
+oats,110
+rice,206
+lettuce,15
+orange,62
+peach,39
+milk,103
+pork,242
+bell pepper,24
+cod,22
+haddock,206
+pepperoni,350
+orange,62
+turkey,130
+lobster,43
+potato,130
+zucchini,33
+cheese,113
+rice,206
+turkey,130
+crab,83
+bacon,50
+cabbage,25
+sausage,200
+broccoli,55
+peach,39
+prosciutto,280
+clams,199
+cherry,50
+spinach,23
+lamb,400
+pepperoni,350
+spinach,23
+potato,130
+mackerel,92
+chicken breast,165
+avocado,234
+soy milk,30
+anchovies,189
+beef,250
+milk,103
+cod,22
+lettuce,15
+haddock,206
+sausage,200
+green beans,35
+oysters,98
+green beans,35
+pineapple,82
+cucumber,16
+grapes,62
+cucumber,16
+haddock,206
+trout,109
+wheat,118
+cabbage,25
+cucumber,16
+trout,109
+peas,59
+carrot,25
+sardines,105
+potato,130
+salami,350
+peanut butter,188
+prosciutto,280
+mushroom,15
+salmon,208
+bacon,50
+duck,300
+duck,300
+banana,105
+anchovies,189
+cauliflower,22
+ham,300
+quinoa,120
+sardines,105
+tofu,76
+milk,103
+rye,45
+tofu,76
+orange,62
+barley,193
+green beans,35
+peas,59
+cauliflower,22
+anchovies,189
+soy milk,30
+mackerel,92
+rice,206
+banana,105
+rye,45
+strawberries,49
+strawberries,49
+catfish,223
+tuna,100
+salmon,208
+turkey,130
+asparagus,20
+turkey,130
+bread,79
+pasta,221
+zucchini,33
+cheese,113
+turkey,130
+bacon,50
+kiwi,41
+salami,350
+egg,78
+oysters,98
+tilapia,45
+kiwi,41
+grapes,62
+green beans,35
+anchovies,189
+pineapple,82
+lettuce,15
+tofu,76
+beef,250
+haddock,206
+scallops,69
+kidney beans,112
+pomegranate,234
+mango,201
+lobster,43
+pork,242
+green beans,35
+asparagus,20
+kidney beans,112
+yogurt,59
+mackerel,92
+peanut butter,188
+duck,300
+pomegranate,234
+strawberries,49
+bulgur,222
+mango,201
+almonds,164
+cucumber,16
+clams,199
+turkey,130
+kiwi,41
+banana,105
+spinach,23
+tofu,76
+milk,103
+oysters,98
+quinoa,120
+pineapple,82
+mushroom,15
+yogurt,59
+plum,46
+pasta,221
+zucchini,33
+coconut milk,42
+spinach,23
+kidney beans,112
+kidney beans,112
+kiwi,41
+cod,22
+yogurt,59
+onion,40
+clams,199
+catfish,223
+barley,193
+almonds,164
+avocado,234
+peach,39
+rice,206
+lentils,116
+ham,300
+broccoli,55
+almonds,164
+sardines,105
+pomegranate,234
+spinach,23
+wheat,118
+crab,83
+eggplant,20
+plum,46
+mackerel,92
+cauliflower,22
+avocado,234
+salmon,208
+crab,83
+yogurt,59
+watermelon,30
+cherry,50
+barley,193
+salami,350
+almond milk,46
+watermelon,30
+sausage,200
+chickpeas,269
+peach,39
+shrimp,99
+rye,45
+carrot,25
+banana,105
+shrimp,99
+soy milk,30
+cheese,113
+tofu,76
+tofu,76
+asparagus,20
+garlic,4
+watermelon,30
+apple,95
+potato,130
+salami,350
+rice,206
+scallops,69
+blueberries,84
+lentils,116
+bread,79
+bacon,50
+sardines,105
+lamb,400
+green beans,35
+chickpeas,269
+scallops,69
+banana,105
+tomato,22
+rice,206
+yogurt,59
+blueberries,84
+sardines,105
+bell pepper,24
+lentils,116
+zucchini,33
+sardines,105
+lobster,43
+bread,79
+lobster,43
+strawberries,49
+quinoa,120
+shrimp,99
+corn,96
+tofu,76
+banana,105
+soy milk,30
+quinoa,120
+pineapple,82
+pepperoni,350
+onion,40
+grapes,62
+cucumber,16
+carrot,25
+soy milk,30
+cauliflower,22
+bell pepper,24
+mackerel,92
+cauliflower,22
+green beans,35
+pomegranate,234
+tilapia,45
+spinach,23
+barley,193
+pepperoni,350
+strawberries,49
+cabbage,25
+tilapia,45
+plum,46
+peach,39
+shrimp,99
+bread,79
+bell pepper,24
+cod,22
+anchovies,189
+cod,22
+carrot,25
+peas,59
+almonds,164
+garlic,4
+soy milk,30
+shrimp,99
+lamb,400
+black beans,227
+kiwi,41
+tomato,22
+strawberries,49
+banana,105
+watermelon,30
+barley,193
+trout,109
+shrimp,99
+mango,201
+pork,242
+bread,79
+grapes,62
+pepperoni,350
+tomato,22
+peanut butter,188
+carrot,25
+trout,109
+milk,103
+beef,250
+plum,46
+wheat,118
+anchovies,189
+spinach,23
+clams,199
+kiwi,41
+mushroom,15
+kiwi,41
+spinach,23
+trout,109
+tilapia,45
+almond milk,46
+oats,110
+pear,101
+mushroom,15
+kiwi,41
+almonds,164
+milk,103
+onion,40
+lobster,43
+lettuce,15
+tofu,76
+rye,45
+oysters,98
+crab,83
+peanut butter,188
+trout,109
+trout,109
+clams,199
+bread,79
+tofu,76
+bacon,50
+beef,250
+almond milk,46
+scallops,69
+asparagus,20
+peach,39
+pork,242
+eggplant,20
+cheese,113
+cabbage,25
+quinoa,120
+eggplant,20
+broccoli,55
+strawberries,49
+trout,109
+catfish,223
+zucchini,33
+watermelon,30
+cheese,113
+sausage,200
+quinoa,120
+coconut milk,42
+peach,39
+bell pepper,24
+pasta,221
+pepperoni,350
+cherry,50
+broccoli,55
+cod,22
+mango,201
+clams,199
+cucumber,16
+spinach,23
+shrimp,99
+mushroom,15
+oysters,98
+tuna,100
+apple,95
+pepperoni,350
+eggplant,20
+sardines,105
+garlic,4
+quinoa,120
+sardines,105
+mango,201
+quinoa,120
+tofu,76
+almonds,164
+asparagus,20
+lobster,43
+lamb,400
+wheat,118
+chickpeas,269
+apple,95
+bacon,50
+shrimp,99
+mango,201
+pepperoni,350
+clams,199
+egg,78
+mango,201
+black beans,227
+pear,101
+chicken breast,165
+soy milk,30
+cherry,50
+oysters,98
+anchovies,189
+pepperoni,350
+almonds,164
+cod,22
+garlic,4
+rice,206
+yogurt,59
+mushroom,15
+zucchini,33
+pasta,221
+pasta,221
+soy milk,30
+barley,193
+prosciutto,280
+kidney beans,112
+chickpeas,269
+prosciutto,280
+zucchini,33
+sausage,200
+tuna,100
+tuna,100
+cauliflower,22
+blueberries,84
+lettuce,15
+zucchini,33
+mackerel,92
+grapes,62
+avocado,234
+almonds,164
+oats,110
+sausage,200
+garlic,4
+black beans,227
+bread,79
+catfish,223
+bulgur,222
+trout,109
+potato,130
+blueberries,84
+cauliflower,22
+strawberries,49
+potato,130
+onion,40
+zucchini,33
+yogurt,59
+duck,300
+orange,62
+asparagus,20
+cauliflower,22
+lamb,400
+tuna,100
+rye,45
+kidney beans,112
+green beans,35
+salmon,208
+potato,130
+almond milk,46
+crab,83
+cucumber,16
+bread,79
+blueberries,84
+bread,79
+zucchini,33
+black beans,227
+pomegranate,234
+asparagus,20
+chickpeas,269
+tilapia,45
+pasta,221
+quinoa,120
+barley,193
+rice,206
+sardines,105
+corn,96
+salmon,208
+potato,130
+quinoa,120
+mushroom,15
+lettuce,15
+grapes,62
+barley,193
+blueberries,84
+cucumber,16
+quinoa,120
+mango,201
+sausage,200
+kiwi,41
+beef,250
+trout,109
+cherry,50
+pineapple,82
+cheese,113
+lobster,43
+tilapia,45
+pineapple,82
+mushroom,15
+catfish,223
+black beans,227
+green beans,35
+chickpeas,269
+duck,300
+onion,40
+duck,300
+salmon,208
+spinach,23
+bacon,50
+ham,300
+cabbage,25
+haddock,206
+carrot,25
+barley,193
+salmon,208
+lentils,116
+kidney beans,112
+pear,101
+apple,95
+chickpeas,269
+soy milk,30
+plum,46
+rice,206
+cheese,113
+rice,206
+zucchini,33
+rice,206
+apple,95
+scallops,69
+lentils,116
+cod,22
+almond milk,46
+cherry,50
+egg,78
+tomato,22
+sausage,200
+kiwi,41
+lentils,116
+zucchini,33
+strawberries,49
+peach,39
+trout,109
+milk,103
+grapes,62
+mango,201
+tofu,76
+green beans,35
+rye,45
+watermelon,30
+rice,206
+pomegranate,234
+cheese,113
+garlic,4
+peas,59
+asparagus,20
+peas,59
+garlic,4
+rice,206
+pineapple,82
+pineapple,82
+spinach,23
+sardines,105
+shrimp,99
+bread,79
+kiwi,41
+milk,103
+chickpeas,269
+scallops,69
+apple,95
+wheat,118
+orange,62
+clams,199
+eggplant,20
+tuna,100
+tomato,22
+prosciutto,280
+yogurt,59
+milk,103
+pineapple,82
+cauliflower,22
+pear,101
+haddock,206
+bread,79
+strawberries,49
+garlic,4
+avocado,234
+peanut butter,188
+anchovies,189
+mango,201
+pear,101
+coconut milk,42
+pork,242
+banana,105
+kidney beans,112
+eggplant,20
+quinoa,120
+milk,103
+chicken breast,165
+salmon,208
+zucchini,33
+ham,300
+onion,40
+pomegranate,234
+wheat,118
+pear,101
+rye,45
+potato,130
+crab,83
+ham,300
+crab,83
+spinach,23
+shrimp,99
+eggplant,20
+orange,62
+cauliflower,22
+cucumber,16
+barley,193
+salami,350
+bulgur,222
+tofu,76
+beef,250
+garlic,4
+grapes,62
+black beans,227
+corn,96
+avocado,234
+wheat,118
+mushroom,15
+spinach,23
+peach,39
+oysters,98
+oysters,98
+cauliflower,22
+chickpeas,269
+rye,45
+haddock,206
+garlic,4
+pork,242
+scallops,69
+mango,201
+chicken breast,165
+sausage,200
+carrot,25
+mango,201
+catfish,223
+cherry,50
+orange,62
+bread,79
+onion,40
+mackerel,92
+yogurt,59
+lobster,43
+egg,78
+egg,78
+pepperoni,350
+green beans,35
+rice,206
+black beans,227
+salami,350
+lobster,43
+mushroom,15
+egg,78
+tofu,76
+mackerel,92
+lobster,43
+avocado,234
+soy milk,30
+trout,109
+mackerel,92
+scallops,69
+pork,242
+scallops,69
+cabbage,25
+spinach,23
+tomato,22
+eggplant,20
+apple,95
+carrot,25
+tilapia,45
+tuna,100
+oats,110
+lentils,116
+bread,79
+bacon,50
+soy milk,30
+blueberries,84
+trout,109
+cabbage,25
+kiwi,41
+lettuce,15
+zucchini,33
+orange,62
+oysters,98
+zucchini,33
+cucumber,16
+milk,103
+coconut milk,42
+pasta,221
+zucchini,33
+trout,109
+grapes,62
+milk,103
+rye,45
+soy milk,30
+turkey,130
+barley,193
+black beans,227
+oats,110
+strawberries,49
+peach,39
+avocado,234
+pepperoni,350
+crab,83
+asparagus,20
+lobster,43
+blueberries,84
+egg,78
+orange,62
+tilapia,45
+tomato,22
+peas,59
+mushroom,15
+pasta,221
+oysters,98
+cucumber,16
+almonds,164
+ham,300
+ham,300
+shrimp,99
+haddock,206
+mushroom,15
+green beans,35
+turkey,130
+anchovies,189
+mackerel,92
+bulgur,222
+sardines,105
+yogurt,59
+cherry,50
+chickpeas,269
+blueberries,84
+beef,250
+mushroom,15
+eggplant,20
+lamb,400
+black beans,227
+zucchini,33
+prosciutto,280
+lettuce,15
+oats,110
+yogurt,59
+ham,300
+anchovies,189
+bulgur,222
+soy milk,30
+rye,45
+pear,101
+yogurt,59
+grapes,62
+kidney beans,112
+corn,96
+pomegranate,234
+blueberries,84
+bell pepper,24
+tilapia,45
+onion,40
+mackerel,92
+quinoa,120
+spinach,23
+tofu,76
+grapes,62
+cherry,50
+soy milk,30
+mushroom,15
+asparagus,20
+tuna,100
+bulgur,222
+prosciutto,280
+salami,350
+blueberries,84
+salami,350
+cucumber,16
+lamb,400
+orange,62
+lettuce,15
+duck,300
+zucchini,33
+lettuce,15
+pineapple,82
+mackerel,92
+milk,103
+catfish,223
+peanut butter,188
+barley,193
+lettuce,15
+mushroom,15
+eggplant,20
+ham,300
+green beans,35
+bell pepper,24
+black beans,227
+cauliflower,22
+salmon,208
+lentils,116
+peas,59
+pepperoni,350
+orange,62
+avocado,234
+barley,193
+watermelon,30
+peanut butter,188
+bell pepper,24
+mushroom,15
+mackerel,92
+corn,96
+almonds,164
+cheese,113
+grapes,62
+cabbage,25
+shrimp,99
+cucumber,16
+wheat,118
+cabbage,25
+orange,62
+sardines,105
+onion,40
+orange,62
+mushroom,15
+sardines,105
+beef,250
+shrimp,99
+bell pepper,24
+chicken breast,165
+tomato,22
+yogurt,59
+milk,103
+duck,300
+cherry,50
+coconut milk,42
+apple,95
+cucumber,16
+mushroom,15
+corn,96
+tofu,76
+yogurt,59
+lettuce,15
+sausage,200
+cucumber,16
+tofu,76
+quinoa,120
+cod,22
+apple,95
+cauliflower,22
+yogurt,59
+plum,46
+tilapia,45
+bulgur,222
+milk,103
+plum,46
+mushroom,15
+orange,62
+peanut butter,188
+clams,199
+peas,59
+garlic,4
+watermelon,30
+carrot,25
+pineapple,82
+milk,103
+soy milk,30
+cod,22
+pork,242
+rice,206
+turkey,130
+bell pepper,24
+avocado,234
+avocado,234
+blueberries,84
+rice,206
+bacon,50
+tofu,76
+pork,242
+kidney beans,112
+oysters,98
+broccoli,55
+almonds,164
+catfish,223
+milk,103
+banana,105
+pasta,221
+rice,206
+cauliflower,22
+haddock,206
+almond milk,46
+egg,78
+lobster,43
+turkey,130
+avocado,234
+potato,130
+cauliflower,22
+pasta,221
+kiwi,41
+pasta,221
+bread,79
+pomegranate,234
+haddock,206
+cod,22
+kidney beans,112
+scallops,69
+banana,105
+oats,110
+soy milk,30
+lettuce,15
+bell pepper,24
+duck,300
+salami,350
+lettuce,15
+mango,201
+trout,109
+black beans,227
+oysters,98
+watermelon,30
+lentils,116
+almonds,164
+bulgur,222
+bacon,50
+banana,105
+cucumber,16
+pasta,221
+clams,199
+lobster,43
+wheat,118
+ham,300
+sardines,105
+pepperoni,350
+duck,300
+oysters,98
+sausage,200
+prosciutto,280
+rye,45
+soy milk,30
+sausage,200
+coconut milk,42
+tofu,76
+crab,83
+pork,242
+bulgur,222
+cherry,50
+bulgur,222
+beef,250
+corn,96
+sausage,200
+salmon,208
+pineapple,82
+sausage,200
+corn,96
+tofu,76
+black beans,227
+tuna,100
+ham,300
+tilapia,45
+sausage,200
+cauliflower,22
+cheese,113
+turkey,130
+mushroom,15
+mackerel,92
+salmon,208
+strawberries,49
+carrot,25
+plum,46
+kiwi,41
+cucumber,16
+orange,62
+tomato,22
+milk,103
+orange,62
+mango,201
+cucumber,16
+bulgur,222
+bacon,50
+asparagus,20
+tomato,22
+sardines,105
+blueberries,84
+grapes,62
+chicken breast,165
+sardines,105
+onion,40
+almond milk,46
+trout,109
+black beans,227
+peas,59
+peanut butter,188
+quinoa,120
+oats,110
+rye,45
+tuna,100
+black beans,227
+almonds,164
+prosciutto,280
+rye,45
+scallops,69
+avocado,234
+apple,95
+mango,201
+turkey,130
+tuna,100
+oats,110
+crab,83
+cherry,50
+chicken breast,165
+salmon,208
+strawberries,49
+apple,95
+tilapia,45
+scallops,69
+eggplant,20
+cabbage,25
+sardines,105
+cauliflower,22
+pear,101
+lentils,116
+turkey,130
+pomegranate,234
+rye,45
+bacon,50
+peas,59
+broccoli,55
+peas,59
+chicken breast,165
+green beans,35
+coconut milk,42
+beef,250
+turkey,130
+almond milk,46
+watermelon,30
+cheese,113
+tomato,22
+lettuce,15
+ham,300
+lentils,116
+trout,109
+catfish,223
+catfish,223
+clams,199
+strawberries,49
+pork,242
+lentils,116
+kiwi,41
+egg,78
+catfish,223
+chicken breast,165
+coconut milk,42
+green beans,35
+mackerel,92
+almond milk,46
+peach,39
+pasta,221
+apple,95
+plum,46
+coconut milk,42
+catfish,223
+trout,109
+ham,300
+scallops,69
+watermelon,30
+duck,300
+cucumber,16
+onion,40
+beef,250
+egg,78
+quinoa,120
+banana,105
+bacon,50
+trout,109
+oats,110
+pepperoni,350
+salami,350
+almond milk,46
+spinach,23
+cherry,50
+tofu,76
+lentils,116
+zucchini,33
+cheese,113
+tilapia,45
+wheat,118
+banana,105
+rice,206
+salami,350
+garlic,4
+orange,62
+bacon,50
+oysters,98
+oysters,98
+almonds,164
+duck,300
+tofu,76
+black beans,227
+pomegranate,234
+cod,22
+oysters,98
+cauliflower,22
+barley,193
+shrimp,99
+avocado,234
+prosciutto,280
+duck,300
+prosciutto,280
+spinach,23
+plum,46
+bulgur,222
+mango,201
+onion,40
+milk,103
+scallops,69
+lamb,400
+apple,95
+rice,206
+rice,206
+ham,300
+strawberries,49
+zucchini,33
+rye,45
+peach,39
+pear,101
+grapes,62
+bulgur,222
+soy milk,30
+clams,199
+coconut milk,42
+tilapia,45
+plum,46
+oats,110
+pasta,221
+oats,110
+milk,103
+quinoa,120
+mackerel,92
+zucchini,33
+garlic,4
+almond milk,46
+cauliflower,22
+bacon,50
+catfish,223
+milk,103
+lettuce,15
+quinoa,120
+pineapple,82
+wheat,118
+crab,83
+lobster,43
+scallops,69
+milk,103
+salmon,208
+bell pepper,24
+clams,199
+prosciutto,280
+lamb,400
+crab,83
+corn,96
+kidney beans,112
+mango,201
+peanut butter,188
+trout,109
+avocado,234
+green beans,35
+anchovies,189
+cauliflower,22
+black beans,227
+oats,110
+black beans,227
+clams,199
+almonds,164
+strawberries,49
+onion,40
+tuna,100
+lamb,400
+quinoa,120
+tomato,22
+green beans,35
+scallops,69
+sausage,200
+prosciutto,280
+turkey,130
+barley,193
+bulgur,222
+soy milk,30
+coconut milk,42
+pineapple,82
+spinach,23
+sardines,105
+pepperoni,350
+mango,201
+cabbage,25
+cauliflower,22
+lamb,400
+watermelon,30
+pineapple,82
+milk,103
+cheese,113
+onion,40
+beef,250
+catfish,223
+oats,110
+spinach,23
+lobster,43
+oats,110
+yogurt,59
+barley,193
+eggplant,20
+cherry,50
+apple,95
+kidney beans,112
+salami,350
+clams,199
+pomegranate,234
+lamb,400
+black beans,227
+apple,95
+peanut butter,188
+chickpeas,269
+tofu,76
+almond milk,46
+quinoa,120
+bell pepper,24
+blueberries,84
+tilapia,45
+lamb,400
+haddock,206
+duck,300
+zucchini,33
+cheese,113
+rye,45
+lettuce,15
+salmon,208
+eggplant,20
+chickpeas,269
+scallops,69
+catfish,223
+plum,46
+asparagus,20
+crab,83
+trout,109
+trout,109
+tofu,76
+scallops,69
+yogurt,59
+banana,105
+carrot,25
+lentils,116
+bacon,50
+bread,79
+clams,199
+spinach,23
+peach,39
+pepperoni,350
+apple,95
+quinoa,120
+wheat,118
+clams,199
+sausage,200
+milk,103
+orange,62
+mushroom,15
+lettuce,15
+lettuce,15
+blueberries,84
+mackerel,92
+salmon,208
+catfish,223
+eggplant,20
+strawberries,49
+blueberries,84
+catfish,223
+kiwi,41
+bulgur,222
+duck,300
+barley,193
+oysters,98
+almond milk,46
+banana,105
+bulgur,222
+tilapia,45
+onion,40
+tilapia,45
+trout,109
+mango,201
+blueberries,84
+cherry,50
+catfish,223
+lobster,43
+mango,201
+plum,46
+cabbage,25
+cabbage,25
+lettuce,15
+scallops,69
+chicken breast,165
+wheat,118
+peach,39
+watermelon,30
+ham,300
+zucchini,33
+salmon,208
+apple,95
+almond milk,46
+beef,250
+kidney beans,112
+orange,62
+carrot,25
+scallops,69
+pineapple,82
+peanut butter,188
+soy milk,30
+bacon,50
+haddock,206
+turkey,130
+cauliflower,22
+black beans,227
+duck,300
+anchovies,189
+oats,110
+tilapia,45
+cabbage,25
+peach,39
+pork,242
+coconut milk,42
+strawberries,49
+grapes,62
+bacon,50
+duck,300
+rye,45
+wheat,118
+banana,105
+kiwi,41
+scallops,69
+pasta,221
+pork,242
+soy milk,30
+spinach,23
+turkey,130
+sardines,105
+haddock,206
+cucumber,16
+peas,59
+zucchini,33
+onion,40
+cabbage,25
+mushroom,15
+bell pepper,24
+cheese,113
+barley,193
+banana,105
+coconut milk,42
+avocado,234
+crab,83
+bacon,50
+cheese,113
+lentils,116
+bell pepper,24
+wheat,118
+sardines,105
+salami,350
+peanut butter,188
+milk,103
+bulgur,222
+mango,201
+tomato,22
+haddock,206
+cheese,113
+milk,103
+cauliflower,22
+pepperoni,350
+mushroom,15
+ham,300
+cheese,113
+cod,22
+beef,250
+corn,96
+mango,201
+rice,206
+ham,300
+almonds,164
+green beans,35
+avocado,234
+mackerel,92
+catfish,223
+strawberries,49
+pork,242
+yogurt,59
+kidney beans,112
+blueberries,84
+blueberries,84
+blueberries,84
+asparagus,20
+corn,96
+ham,300
+chickpeas,269
+chicken breast,165
+shrimp,99
+cauliflower,22
+yogurt,59
+cheese,113
+pear,101
+anchovies,189
+corn,96
+oats,110
+turkey,130
+chicken breast,165
+corn,96
+bulgur,222
+blueberries,84
+tuna,100
+kidney beans,112
+salmon,208
+asparagus,20
+asparagus,20
+tofu,76
+tomato,22
+almond milk,46
+quinoa,120
+coconut milk,42
+apple,95
+corn,96
+cucumber,16
+carrot,25
+tilapia,45
+tofu,76
+wheat,118
+tuna,100
+mango,201
+orange,62
+tofu,76
+almonds,164
+tilapia,45
+scallops,69
+trout,109
+zucchini,33
+blueberries,84
+trout,109
+scallops,69
+pear,101
+blueberries,84
+mushroom,15
+pepperoni,350
+turkey,130
+lobster,43
+kidney beans,112
+crab,83
+blueberries,84
+sardines,105
+banana,105
+beef,250
+pineapple,82
+corn,96
+bread,79
+eggplant,20
+pear,101
+pasta,221
+trout,109
+blueberries,84
+peanut butter,188
+grapes,62
+peas,59
+bell pepper,24
+shrimp,99
+cod,22
+catfish,223
+mackerel,92
+lettuce,15
+bacon,50
+peas,59
+banana,105
+pepperoni,350
+almonds,164
+rye,45
+asparagus,20
+chicken breast,165
+bulgur,222
+bread,79
+bell pepper,24
+shrimp,99
+trout,109
+tofu,76
+sausage,200
+plum,46
+eggplant,20
+orange,62
+mackerel,92
+duck,300
+spinach,23
+milk,103
+bread,79
+kidney beans,112
+black beans,227
+scallops,69
+peas,59
+yogurt,59
+orange,62
+pepperoni,350
+strawberries,49
+chickpeas,269
+peas,59
+salmon,208
+rye,45
+oysters,98
+potato,130
+pork,242
+duck,300
+chicken breast,165
+oysters,98
+lettuce,15
+chickpeas,269
+pomegranate,234
+avocado,234
+pork,242
+chicken breast,165
+clams,199
+cheese,113
+blueberries,84
+peanut butter,188
+tuna,100
+peanut butter,188
+potato,130
+onion,40
+tuna,100
+cherry,50
+beef,250
+beef,250
+carrot,25
+bread,79
+onion,40
+plum,46
+cabbage,25
+carrot,25
+cheese,113
+cheese,113
+lobster,43
+coconut milk,42
+apple,95
+bread,79
+rice,206
+cauliflower,22
+pasta,221
+salami,350
+prosciutto,280
+rice,206
+ham,300
+oysters,98
+yogurt,59
+banana,105
+bread,79
+bacon,50
+haddock,206
+orange,62
+egg,78
+black beans,227
+potato,130
+turkey,130
+barley,193
+bread,79
+cod,22
+banana,105
+egg,78
+potato,130
+chickpeas,269
+carrot,25
+salami,350
+pepperoni,350
+egg,78
+kiwi,41
+anchovies,189
+beef,250
+quinoa,120
+salami,350
+prosciutto,280
+peanut butter,188
+lentils,116
+garlic,4
+almonds,164
+salmon,208
+avocado,234
+apple,95
+blueberries,84
+onion,40
+onion,40
+almond milk,46
+eggplant,20
+prosciutto,280
+eggplant,20
+haddock,206
+coconut milk,42
+orange,62
+cheese,113
+black beans,227
+onion,40
+tomato,22
+black beans,227
+carrot,25
+tuna,100
+peanut butter,188
+clams,199
+salami,350
+barley,193
+garlic,4
+pear,101
+rye,45
+milk,103
+oats,110
+barley,193
+anchovies,189
+peas,59
+cauliflower,22
+strawberries,49
+haddock,206
+kidney beans,112
+cauliflower,22
+peach,39
+blueberries,84
+cucumber,16
+sardines,105
+lettuce,15
+barley,193
+kidney beans,112
+watermelon,30
+duck,300
+scallops,69
+pear,101
+salami,350
+banana,105
+milk,103
+green beans,35
+pear,101
+pepperoni,350
+cherry,50
+black beans,227
+milk,103
+tuna,100
+pineapple,82
+eggplant,20
+chickpeas,269
+carrot,25
+kidney beans,112
+corn,96
+potato,130
+shrimp,99
+wheat,118
+kiwi,41
+pear,101
+green beans,35
+pasta,221
+bell pepper,24
+crab,83
+cauliflower,22
+yogurt,59
+ham,300
+yogurt,59
+wheat,118
+lettuce,15
+quinoa,120
+tilapia,45
+lamb,400
+bread,79
+tomato,22
+plum,46
+chickpeas,269
+egg,78
+milk,103
+barley,193
+broccoli,55
+blueberries,84
+pineapple,82
+quinoa,120
+pasta,221
+sausage,200
+mango,201
+chicken breast,165
+wheat,118
+anchovies,189
+banana,105
+sardines,105
+grapes,62
+ham,300
+mackerel,92
+prosciutto,280
+anchovies,189
+banana,105
+salmon,208
+blueberries,84
+anchovies,189
+tofu,76
+lettuce,15
+bell pepper,24
+soy milk,30
+cod,22
+peach,39
+pork,242
+pasta,221
+broccoli,55
+sardines,105
+haddock,206
+kidney beans,112
+mackerel,92
+cabbage,25
+chickpeas,269
+lentils,116
+pork,242
+salmon,208
+bell pepper,24
+grapes,62
+peach,39
+pork,242
+salami,350
+clams,199
+lamb,400
+rice,206
+potato,130
+blueberries,84
+almond milk,46
+pomegranate,234
+lettuce,15
+salami,350
+bell pepper,24
+mackerel,92
+lettuce,15
+tofu,76
+almond milk,46
+crab,83
+tilapia,45
+watermelon,30
+chickpeas,269
+cucumber,16
+eggplant,20
+bread,79
+avocado,234
+bread,79
+oysters,98
+quinoa,120
+quinoa,120
+grapes,62
+oats,110
+oysters,98
+mackerel,92
+wheat,118
+trout,109
+sardines,105
+cauliflower,22
+onion,40
+crab,83
+chickpeas,269
+pear,101
+scallops,69
+oats,110
+tuna,100
+black beans,227
+haddock,206
+zucchini,33
+pork,242
+onion,40
+pork,242
+broccoli,55
+sausage,200
+quinoa,120
+black beans,227
+carrot,25
+bread,79
+rice,206
+milk,103
+tilapia,45
+kiwi,41
+cucumber,16
+anchovies,189
+kiwi,41
+lobster,43
+avocado,234
+almond milk,46
+chickpeas,269
+milk,103
+zucchini,33
+cherry,50
+turkey,130
+trout,109
+rice,206
+cabbage,25
+mushroom,15
+lentils,116
+catfish,223
+grapes,62
+cauliflower,22
+tilapia,45
+anchovies,189
+oysters,98
+apple,95
+garlic,4
+cheese,113
+cherry,50
+asparagus,20
+cauliflower,22
+garlic,4
+corn,96
+coconut milk,42
+onion,40
+lettuce,15
+spinach,23
+rice,206
+corn,96
+rye,45
+cod,22
+crab,83
+scallops,69
+banana,105
+corn,96
+watermelon,30
+bell pepper,24
+peas,59
+black beans,227
+zucchini,33
+bulgur,222
+corn,96
+tilapia,45
+barley,193
+mackerel,92
+pork,242
+strawberries,49
+crab,83
+tilapia,45
+duck,300
+pineapple,82
+kiwi,41
+lobster,43
+prosciutto,280
+prosciutto,280
+corn,96
+anchovies,189
+bulgur,222
+salami,350
+oats,110
+crab,83
+eggplant,20
+watermelon,30
+wheat,118
+chickpeas,269
+pepperoni,350
+catfish,223
+lettuce,15
+grapes,62
+tofu,76
+pomegranate,234
+peanut butter,188
+catfish,223
+cheese,113
+pomegranate,234
+mackerel,92
+yogurt,59
+pineapple,82
+mushroom,15
+milk,103
+trout,109
+coconut milk,42
+kiwi,41
+pepperoni,350
+kidney beans,112
+yogurt,59
+eggplant,20
+salmon,208
+eggplant,20
+crab,83
+plum,46
+shrimp,99
+oysters,98
+bulgur,222
+carrot,25
+cauliflower,22
+cabbage,25
+mackerel,92
+oysters,98
+carrot,25
+carrot,25
+soy milk,30
+black beans,227
+peanut butter,188
+egg,78
+lamb,400
+trout,109
+salami,350
+pineapple,82
+salami,350
+corn,96
+avocado,234
+cheese,113
+oysters,98
+wheat,118
+barley,193
+coconut milk,42
+kidney beans,112
+almond milk,46
+bell pepper,24
+onion,40
+zucchini,33
+turkey,130
+yogurt,59
+lentils,116
+pear,101
+pasta,221
+trout,109
+coconut milk,42
+zucchini,33
+corn,96
+kiwi,41
+carrot,25
+orange,62
+barley,193
+apple,95
+scallops,69
+wheat,118
+peanut butter,188
+tilapia,45
+oats,110
+almonds,164
+quinoa,120
+cucumber,16
+grapes,62
+broccoli,55
+peanut butter,188
+milk,103
+green beans,35
+clams,199
+barley,193
+yogurt,59
+lamb,400
+chicken breast,165
+cauliflower,22
+peanut butter,188
+bell pepper,24
+lobster,43
+cucumber,16
+bulgur,222
+pepperoni,350
+kidney beans,112
+eggplant,20
+salami,350
+oats,110
+bulgur,222
+clams,199
+mackerel,92
+cod,22
+bacon,50
+shrimp,99
+yogurt,59
+sausage,200
+salmon,208
+turkey,130
+cauliflower,22
+cauliflower,22
+rye,45
+almonds,164
+cod,22
+cheese,113
+strawberries,49
+green beans,35
+banana,105
+turkey,130
+coconut milk,42
+yogurt,59
+cheese,113
+oysters,98
+garlic,4
+ham,300
+scallops,69
+bacon,50
+garlic,4
+kiwi,41
+bell pepper,24
+mushroom,15
+rice,206
+cucumber,16
+oysters,98
+pineapple,82
+anchovies,189
+crab,83
+mango,201
+cod,22
+crab,83
+black beans,227
+tomato,22
+beef,250
+oysters,98
+milk,103
+cauliflower,22
+barley,193
+sausage,200
+bread,79
+ham,300
+cheese,113
+pineapple,82
+sardines,105
+lettuce,15
+bacon,50
+apple,95
+catfish,223
+peach,39
+avocado,234
+pork,242
+grapes,62
+tomato,22
+soy milk,30
+cherry,50
+prosciutto,280
+strawberries,49
+sausage,200
+anchovies,189
+almonds,164
+lamb,400
+salami,350
+corn,96
+apple,95
+carrot,25
+green beans,35
+rye,45
+coconut milk,42
+prosciutto,280
+milk,103
+asparagus,20
+peach,39
+strawberries,49
+milk,103
+garlic,4
+corn,96
+ham,300
+eggplant,20
+tuna,100
+quinoa,120
+plum,46
+scallops,69
+kiwi,41
+milk,103
+onion,40
+rye,45
+avocado,234
+cod,22
+tuna,100
+black beans,227
+cherry,50
+ham,300
+broccoli,55
+beef,250
+pineapple,82
+rice,206
+garlic,4
+pepperoni,350
+duck,300
+cucumber,16
+grapes,62
+anchovies,189
+shrimp,99
+trout,109
+spinach,23
+watermelon,30
+lettuce,15
+peas,59
+almonds,164
+onion,40
+bulgur,222
+crab,83
+catfish,223
+apple,95
+salmon,208
+barley,193
+bread,79
+broccoli,55
+lentils,116
+cauliflower,22
+bread,79
+milk,103
+shrimp,99
+haddock,206
+catfish,223
+cheese,113
+crab,83
+scallops,69
+coconut milk,42
+cabbage,25
+plum,46
+clams,199
+mushroom,15
+wheat,118
+black beans,227
+plum,46
+eggplant,20
+pork,242
+trout,109
+clams,199
+lentils,116
+peach,39
+lobster,43
+chicken breast,165
+prosciutto,280
+prosciutto,280
+haddock,206
+black beans,227
+lobster,43
+anchovies,189
+peas,59
+cheese,113
+salmon,208
+pasta,221
+shrimp,99
+rice,206
+carrot,25
+cheese,113
+kidney beans,112
+orange,62
+sausage,200
+oysters,98
+haddock,206
+avocado,234
+mackerel,92
+sausage,200
+peanut butter,188
+tomato,22
+rice,206
+tomato,22
+rye,45
+chicken breast,165
+crab,83
+bell pepper,24
+peas,59
+quinoa,120
+cherry,50
+oats,110
+bell pepper,24
+mackerel,92
+crab,83
+asparagus,20
+trout,109
+pasta,221
+strawberries,49
+orange,62
+cheese,113
+kiwi,41
+bacon,50
+banana,105
+mackerel,92
+kidney beans,112
+shrimp,99
+kidney beans,112
+zucchini,33
+spinach,23
+bulgur,222
+lobster,43
+soy milk,30
+wheat,118
+bread,79
+oysters,98
+pepperoni,350
+garlic,4
+pasta,221
+cabbage,25
+barley,193
+chickpeas,269
+bread,79
+pasta,221
+haddock,206
+barley,193
+bell pepper,24
+tilapia,45
+mushroom,15
+cherry,50
+chicken breast,165
+broccoli,55
+potato,130
+scallops,69
+oats,110
+carrot,25
+plum,46
+lobster,43
+tuna,100
+watermelon,30
+sardines,105
+scallops,69
+shrimp,99
+clams,199
+cabbage,25
+turkey,130
+peach,39
+almonds,164
+barley,193
+lentils,116
+tilapia,45
+cucumber,16
+bread,79
+scallops,69
+garlic,4
+cheese,113
+mushroom,15
+potato,130
+clams,199
+lettuce,15
+clams,199
+onion,40
+banana,105
+prosciutto,280
+pepperoni,350
+catfish,223
+tuna,100
+pomegranate,234
+corn,96
+kidney beans,112
+pear,101
+spinach,23
+broccoli,55
+milk,103
+onion,40
+pomegranate,234
+duck,300
+carrot,25
+catfish,223
+cauliflower,22
+peas,59
+eggplant,20
+ham,300
+tofu,76
+quinoa,120
+cherry,50
+grapes,62
+banana,105
+pasta,221
+cabbage,25
+tilapia,45
+rye,45
+oysters,98
+chickpeas,269
+mushroom,15
+almonds,164
+tomato,22
+almond milk,46
+wheat,118
+strawberries,49
+blueberries,84
+salmon,208
+cauliflower,22
+green beans,35
+chickpeas,269
+rye,45
+onion,40
+oysters,98
+chickpeas,269
+pork,242
+blueberries,84
+peas,59
+yogurt,59
+avocado,234
+duck,300
+quinoa,120
+black beans,227
+garlic,4
+rice,206
+chicken breast,165
+duck,300
+mango,201
+potato,130
+wheat,118
+sardines,105
+strawberries,49
+peanut butter,188
+garlic,4
+asparagus,20
+shrimp,99
+kiwi,41
+sardines,105
+ham,300
+lamb,400
+turkey,130
+cherry,50
+watermelon,30
+grapes,62
+apple,95
+cucumber,16
+zucchini,33
+pepperoni,350
+lobster,43
+turkey,130
+black beans,227
+banana,105
+ham,300
+duck,300
+haddock,206
+oysters,98
+avocado,234
+banana,105
+plum,46
+soy milk,30
+almond milk,46
+watermelon,30
+carrot,25
+anchovies,189
+kiwi,41
+salami,350
+corn,96
+clams,199
+corn,96
+chicken breast,165
+haddock,206
+broccoli,55
+almond milk,46
+salami,350
+blueberries,84
+tuna,100
+broccoli,55
+pork,242
+tofu,76
+apple,95
+tofu,76
+pomegranate,234
+chicken breast,165
+kidney beans,112
+green beans,35
+pasta,221
+tilapia,45
+bulgur,222
+peanut butter,188
+shrimp,99
+quinoa,120
+strawberries,49
+onion,40
+wheat,118
+coconut milk,42
+asparagus,20
+potato,130
+tuna,100
+egg,78
+scallops,69
+duck,300
+peanut butter,188
+tuna,100
+turkey,130
+salami,350
+duck,300
+almonds,164
+egg,78
+wheat,118
+asparagus,20
+watermelon,30
+avocado,234
+pork,242
+blueberries,84
+carrot,25
+mango,201
+tilapia,45
+kiwi,41
+pepperoni,350
+pomegranate,234
+prosciutto,280
+scallops,69
+lettuce,15
+cabbage,25
+tilapia,45
+grapes,62
+peas,59
+onion,40
+watermelon,30
+beef,250
+cod,22
+mackerel,92
+mango,201
+black beans,227
+corn,96
+zucchini,33
+tuna,100
+broccoli,55
+cauliflower,22
+salmon,208
+cauliflower,22
+kiwi,41
+strawberries,49
+wheat,118
+asparagus,20
+shrimp,99
+cucumber,16
+cod,22
+strawberries,49
+apple,95
+haddock,206
+cauliflower,22
+kidney beans,112
+cucumber,16
+quinoa,120
+lobster,43
+orange,62
+wheat,118
+clams,199
+chickpeas,269
+shrimp,99
+wheat,118
+ham,300
+banana,105
+anchovies,189
+spinach,23
+pomegranate,234
+almonds,164
+tomato,22
+pepperoni,350
+lamb,400
+lamb,400
+bacon,50
+apple,95
+chicken breast,165
+asparagus,20
+bulgur,222
+sardines,105
+prosciutto,280
+duck,300
+mushroom,15
+blueberries,84
+mackerel,92
+lamb,400
+tomato,22
+haddock,206
+cherry,50
+tomato,22
+grapes,62
+tilapia,45
+tofu,76
+rye,45
+bacon,50
+quinoa,120
+catfish,223
+tofu,76
+pork,242
+potato,130
+lamb,400
+catfish,223
+crab,83
+zucchini,33
+oysters,98
+pasta,221
+carrot,25
+sardines,105
+ham,300
+cabbage,25
+lentils,116
+scallops,69
+rye,45
+garlic,4
+chicken breast,165
+anchovies,189
+salmon,208
+corn,96
+blueberries,84
+pear,101
+peas,59
+catfish,223
+banana,105
+scallops,69
+peach,39
+rice,206
+almonds,164
+kiwi,41
+peach,39
+grapes,62
+mackerel,92
+apple,95
+soy milk,30
+oats,110
+cherry,50
+pineapple,82
+quinoa,120
+kiwi,41
+bulgur,222
+tilapia,45
+wheat,118
+sausage,200
+lamb,400
+oysters,98
+black beans,227
+spinach,23
+chickpeas,269
+kiwi,41
+crab,83
+kiwi,41
+kidney beans,112
+chickpeas,269
+ham,300
+lentils,116
+tilapia,45
+cabbage,25
+milk,103
+spinach,23
+shrimp,99
+peanut butter,188
+eggplant,20
+green beans,35
+garlic,4
+mango,201
+quinoa,120
+salami,350
+cheese,113
+tilapia,45
+soy milk,30
+watermelon,30
+cod,22
+trout,109
+corn,96
+banana,105
+peas,59
+beef,250
+rye,45
+wheat,118
+wheat,118
+black beans,227
+pepperoni,350
+banana,105
+cabbage,25
+sausage,200
+ham,300
+tofu,76
+rice,206
+bread,79
+mango,201
+salmon,208
+beef,250
+bread,79
+broccoli,55
+bacon,50
+peach,39
+haddock,206
+zucchini,33
+bacon,50
+oysters,98
+mushroom,15
+avocado,234
+corn,96
+pear,101
+milk,103
+avocado,234
+coconut milk,42
+barley,193
+mango,201
+trout,109
+cucumber,16
+pork,242
+orange,62
+cauliflower,22
+mango,201
+catfish,223
+rice,206
+ham,300
+barley,193
+corn,96
+eggplant,20
+tilapia,45
+sardines,105
+beef,250
+chicken breast,165
+coconut milk,42
+duck,300
+mushroom,15
+ham,300
+wheat,118
+almonds,164
+wheat,118
+barley,193
+mackerel,92
+crab,83
+trout,109
+kidney beans,112
+pomegranate,234
+egg,78
+eggplant,20
+broccoli,55
+oysters,98
+watermelon,30
+mushroom,15
+avocado,234
+peach,39
+pear,101
+lobster,43
+pineapple,82
+anchovies,189
+mango,201
+chicken breast,165
+barley,193
+pineapple,82
+avocado,234
+blueberries,84
+banana,105
+coconut milk,42
+chicken breast,165
+asparagus,20
+crab,83
+cucumber,16
+black beans,227
+pasta,221
+eggplant,20
+cherry,50
+bulgur,222
+avocado,234
+banana,105
+almond milk,46
+cabbage,25
+eggplant,20
+duck,300
+watermelon,30
+green beans,35
+banana,105
+ham,300
+mackerel,92
+oysters,98
+wheat,118
+eggplant,20
+haddock,206
+oats,110
+zucchini,33
+plum,46
+pineapple,82
+scallops,69
+clams,199
+bulgur,222
+lobster,43
+pasta,221
+chicken breast,165
+blueberries,84
+barley,193
+tomato,22
+chickpeas,269
+clams,199
+zucchini,33
+soy milk,30
+wheat,118
+corn,96
+cauliflower,22
+anchovies,189
+shrimp,99
+potato,130
+milk,103
+salami,350
+kidney beans,112
+asparagus,20
+eggplant,20
+spinach,23
+chickpeas,269
+rye,45
+pineapple,82
+egg,78
+barley,193
+cod,22
+almonds,164
+cucumber,16
+yogurt,59
+broccoli,55
+sardines,105
+catfish,223
+tuna,100
+sausage,200
+strawberries,49
+bell pepper,24
+blueberries,84
+strawberries,49
+coconut milk,42
+sausage,200
+lentils,116
+cauliflower,22
+mango,201
+garlic,4
+soy milk,30
+cabbage,25
+pear,101
+sausage,200
+sausage,200
+tofu,76
+lettuce,15
+salmon,208
+blueberries,84
+bread,79
+tuna,100
+broccoli,55
+oysters,98
+corn,96
+blueberries,84
+broccoli,55
+spinach,23
+catfish,223
+pasta,221
+grapes,62
+pear,101
+lettuce,15
+milk,103
+pineapple,82
+blueberries,84
+tofu,76
+mackerel,92
+garlic,4
+pear,101
+blueberries,84
+peas,59
+lamb,400
+onion,40
+banana,105
+orange,62
+asparagus,20
+lentils,116
+onion,40
+milk,103
+strawberries,49
+cabbage,25
+tuna,100
+haddock,206
+cheese,113
+coconut milk,42
+mango,201
+wheat,118
+clams,199
+trout,109
+spinach,23
+orange,62
+blueberries,84
+garlic,4
+bread,79
+beef,250
+spinach,23
+black beans,227
+lettuce,15
+peas,59
+scallops,69
+lentils,116
+pasta,221
+salami,350
+carrot,25
+bulgur,222
+avocado,234
+catfish,223
+kidney beans,112
+banana,105
+cucumber,16
+pasta,221
+black beans,227
+wheat,118
+plum,46
+cherry,50
+chicken breast,165
+rye,45
+clams,199
+peas,59
+duck,300
+yogurt,59
+lobster,43
+ham,300
+cod,22
+anchovies,189
+broccoli,55
+lobster,43
+potato,130
+crab,83
+oysters,98
+apple,95
+turkey,130
+mango,201
+ham,300
+bread,79
+mackerel,92
+cabbage,25
+banana,105
+pomegranate,234
+mushroom,15
+tilapia,45
+peas,59
+tomato,22
+spinach,23
+potato,130
+wheat,118
+asparagus,20
+mango,201
+cherry,50
+pork,242
+soy milk,30
+cauliflower,22
+zucchini,33
+tilapia,45
+haddock,206
+corn,96
+duck,300
+peach,39
+duck,300
+banana,105
+tomato,22
+shrimp,99
+onion,40
+watermelon,30
+blueberries,84
+mango,201
+lobster,43
+trout,109
+cucumber,16
+peas,59
+lamb,400
+chickpeas,269
+lobster,43
+milk,103
+avocado,234
+onion,40
+peanut butter,188
+lamb,400
+peanut butter,188
+strawberries,49
+clams,199
+eggplant,20
+grapes,62
+mushroom,15
+cheese,113
+bell pepper,24
+chicken breast,165
+anchovies,189
+anchovies,189
+shrimp,99
+asparagus,20
+prosciutto,280
+pineapple,82
+oysters,98
+avocado,234
+salami,350
+potato,130
+oysters,98
+shrimp,99
+watermelon,30
+pear,101
+garlic,4
+asparagus,20
+pomegranate,234
+soy milk,30
+watermelon,30
+potato,130
+banana,105
+strawberries,49
+banana,105
+peanut butter,188
+wheat,118
+broccoli,55
+kidney beans,112
+mushroom,15
+salami,350
+almonds,164
+almond milk,46
+onion,40
+almonds,164
+cucumber,16
+banana,105
+peach,39
+blueberries,84
+clams,199
+cabbage,25
+lobster,43
+apple,95
+black beans,227
+broccoli,55
+pasta,221
+yogurt,59
+bread,79
+peas,59
+cucumber,16
+barley,193
+cherry,50
+anchovies,189
+broccoli,55
+spinach,23
+mackerel,92
+barley,193
+green beans,35
+quinoa,120
+chicken breast,165
+chickpeas,269
+pepperoni,350
+watermelon,30
+oysters,98
+pear,101
+tuna,100
+lentils,116
+pepperoni,350
+tofu,76
+anchovies,189
+mackerel,92
+garlic,4
+asparagus,20
+green beans,35
+eggplant,20
+avocado,234
+lentils,116
+mackerel,92
+soy milk,30
+pork,242
+kiwi,41
+turkey,130
+oysters,98
+prosciutto,280
+tilapia,45
+cabbage,25
+haddock,206
+tomato,22
+ham,300
+corn,96
+milk,103
+salmon,208
+rice,206
+oysters,98
+soy milk,30
+bulgur,222
+tofu,76
+ham,300
+mango,201
+lettuce,15
+beef,250
+catfish,223
+corn,96
+pear,101
+cucumber,16
+peanut butter,188
+cheese,113
+lettuce,15
+barley,193
+bacon,50
+wheat,118
+beef,250
+almonds,164
+pineapple,82
+yogurt,59
+chickpeas,269
+oats,110
+mackerel,92
+ham,300
+lettuce,15
+coconut milk,42
+pear,101
+milk,103
+cod,22
+pear,101
+peach,39
+almond milk,46
+quinoa,120
+cheese,113
+yogurt,59
+clams,199
+plum,46
+pepperoni,350
+cucumber,16
+crab,83
+haddock,206
+haddock,206
+salami,350
+potato,130
+tofu,76
+almond milk,46
+tilapia,45
+salmon,208
+tofu,76
+tofu,76
+bell pepper,24
+bread,79
+cherry,50
+peanut butter,188
+lentils,116
+zucchini,33
+cheese,113
+peach,39
+cabbage,25
+orange,62
+strawberries,49
+almonds,164
+cucumber,16
+shrimp,99
+avocado,234
+chickpeas,269
+almond milk,46
+onion,40
+chicken breast,165
+pepperoni,350
+clams,199
+bulgur,222
+apple,95
+clams,199
+mushroom,15
+green beans,35
+catfish,223
+blueberries,84
+beef,250
+quinoa,120
+scallops,69
+asparagus,20
+watermelon,30
+rye,45
+mango,201
+cheese,113
+beef,250
+kiwi,41
+wheat,118
+tomato,22
+turkey,130
+cucumber,16
+rye,45
+peach,39
+ham,300
+milk,103
+pomegranate,234
+blueberries,84
+avocado,234
+duck,300
+tuna,100
+almonds,164
+quinoa,120
+prosciutto,280
+sausage,200
+pineapple,82
+chickpeas,269
+turkey,130
+potato,130
+watermelon,30
+corn,96
+yogurt,59
+bread,79
+pork,242
+watermelon,30
+zucchini,33
+pomegranate,234
+catfish,223
+mango,201
+blueberries,84
+banana,105
+pepperoni,350
+pork,242
+rice,206
+prosciutto,280
+lentils,116
+onion,40
+lettuce,15
+rye,45
+sardines,105
+grapes,62
+shrimp,99
+egg,78
+mango,201
+potato,130
+milk,103
+bulgur,222
+lentils,116
+beef,250
+haddock,206
+avocado,234
+potato,130
+turkey,130
+anchovies,189
+lobster,43
+chickpeas,269
+garlic,4
+trout,109
+oats,110
+grapes,62
+sardines,105
+garlic,4
+cucumber,16
+peanut butter,188
+carrot,25
+zucchini,33
+pork,242
+sausage,200
+peas,59
+prosciutto,280
+peanut butter,188
+soy milk,30
+lentils,116
+lettuce,15
+pasta,221
+oysters,98
+rice,206
+trout,109
+tuna,100
+avocado,234
+cherry,50
+peanut butter,188
+wheat,118
+milk,103
+tuna,100
+bacon,50
+zucchini,33
+orange,62
+prosciutto,280
+trout,109
+lobster,43
+bread,79
+bread,79
+shrimp,99
+banana,105
+pork,242
+lettuce,15
+mango,201
+bacon,50
+salmon,208
+grapes,62
+beef,250
+eggplant,20
+pineapple,82
+bacon,50
+peach,39
+clams,199
+orange,62
+strawberries,49
+ham,300
+tomato,22
+plum,46
+bell pepper,24
+green beans,35
+catfish,223
+sardines,105
+prosciutto,280
+tomato,22
+lamb,400
+milk,103
+eggplant,20
+anchovies,189
+barley,193
+grapes,62
+scallops,69
+lettuce,15
+salami,350
+plum,46
+potato,130
+prosciutto,280
+cherry,50
+cauliflower,22
+grapes,62
+ham,300
+trout,109
+ham,300
+tomato,22
+egg,78
+chickpeas,269
+tuna,100
+rice,206
+broccoli,55
+corn,96
+pineapple,82
+tuna,100
+turkey,130
+green beans,35
+blueberries,84
+barley,193
+pomegranate,234
+salmon,208
+bell pepper,24
+garlic,4
+coconut milk,42
+trout,109
+chickpeas,269
+rice,206
+ham,300
+cucumber,16
+salmon,208
+grapes,62
+oysters,98
+lobster,43
+almonds,164
+sausage,200
+potato,130
+lobster,43
+salmon,208
+lettuce,15
+almond milk,46
+scallops,69
+plum,46
+yogurt,59
+wheat,118
+avocado,234
+peas,59
+ham,300
+cabbage,25
+peas,59
+mushroom,15
+cucumber,16
+trout,109
+cucumber,16
+yogurt,59
+garlic,4
+catfish,223
+tilapia,45
+strawberries,49
+haddock,206
+turkey,130
+crab,83
+yogurt,59
+grapes,62
+salami,350
+trout,109
+pear,101
+carrot,25
+sausage,200
+pineapple,82
+spinach,23
+chicken breast,165
+ham,300
+sardines,105
+peas,59
+banana,105
+anchovies,189
+quinoa,120
+orange,62
+bell pepper,24
+banana,105
+cod,22
+banana,105
+haddock,206
+bulgur,222
+tuna,100
+soy milk,30
+orange,62
+yogurt,59
+strawberries,49
+apple,95
+pear,101
+bell pepper,24
+peach,39
+oysters,98
+cheese,113
+egg,78
+barley,193
+cauliflower,22
+avocado,234
+cherry,50
+scallops,69
+catfish,223
+chickpeas,269
+quinoa,120
+pepperoni,350
+cucumber,16
+lobster,43
+coconut milk,42
+bulgur,222
+asparagus,20
+tomato,22
+asparagus,20
+spinach,23
+potato,130
+peas,59
+egg,78
+garlic,4
+cherry,50
+corn,96
+asparagus,20
+onion,40
+egg,78
+quinoa,120
+pomegranate,234
+bell pepper,24
+plum,46
+catfish,223
+cheese,113
+pear,101
+green beans,35
+kidney beans,112
+tilapia,45
+avocado,234
+pear,101
+soy milk,30
+mackerel,92
+peanut butter,188
+wheat,118
+salami,350
+oysters,98
+carrot,25
+orange,62
+pasta,221
+lamb,400
+almonds,164
+barley,193
+asparagus,20
+egg,78
+carrot,25
+cod,22
+lobster,43
+potato,130
+bread,79
+carrot,25
+cucumber,16
+corn,96
+corn,96
+potato,130
+coconut milk,42
+kiwi,41
+garlic,4
+chickpeas,269
+trout,109
+oats,110
+apple,95
+oats,110
+rice,206
+pineapple,82
+bread,79
+cherry,50
+mackerel,92
+kidney beans,112
+watermelon,30
+crab,83
+kidney beans,112
+tilapia,45
+salmon,208
+spinach,23
+sardines,105
+oats,110
+wheat,118
+duck,300
+bread,79
+salmon,208
+bulgur,222
+coconut milk,42
+cod,22
+mackerel,92
+bulgur,222
+kiwi,41
+tomato,22
+eggplant,20
+cheese,113
+banana,105
+pasta,221
+watermelon,30
+grapes,62
+soy milk,30
+strawberries,49
+pork,242
+catfish,223
+pear,101
+almonds,164
+cauliflower,22
+bread,79
+cod,22
+lettuce,15
+tuna,100
+beef,250
+cucumber,16
+mackerel,92
+salami,350
+watermelon,30
+quinoa,120
+broccoli,55
+pasta,221
+grapes,62
+zucchini,33
+green beans,35
+scallops,69
+onion,40
+lobster,43
+coconut milk,42
+garlic,4
+pomegranate,234
+prosciutto,280
+egg,78
+bacon,50
+kidney beans,112
+pear,101
+bacon,50
+cauliflower,22
+anchovies,189
+strawberries,49
+egg,78
+lettuce,15
+duck,300
+almonds,164
+tofu,76
+cheese,113
+tilapia,45
+yogurt,59
+egg,78
+onion,40
+onion,40
+chickpeas,269
+watermelon,30
+eggplant,20
+soy milk,30
+anchovies,189
+cheese,113
+catfish,223
+cod,22
+garlic,4
+cauliflower,22
+peas,59
+bread,79
+milk,103
+catfish,223
+orange,62
+zucchini,33
+cherry,50
+quinoa,120
+coconut milk,42
+oysters,98
+ham,300
+tofu,76
+egg,78
+prosciutto,280
+watermelon,30
+carrot,25
+oats,110
+anchovies,189
+clams,199
+almonds,164
+broccoli,55
+lettuce,15
+avocado,234
+wheat,118
+rye,45
+tilapia,45
+quinoa,120
+asparagus,20
+spinach,23
+duck,300
+egg,78
+almonds,164
+black beans,227
+trout,109
+garlic,4
+pomegranate,234
+lentils,116
+plum,46
+sardines,105
+pear,101
+watermelon,30
+quinoa,120
+eggplant,20
+plum,46
+scallops,69
+coconut milk,42
+lettuce,15
+asparagus,20
+oats,110
+salmon,208
+almond milk,46
+chicken breast,165
+onion,40
+pepperoni,350
+plum,46
+eggplant,20
+pineapple,82
+cheese,113
+rye,45
+carrot,25
+pepperoni,350
+milk,103
+mushroom,15
+rye,45
+coconut milk,42
+rye,45
+corn,96
+turkey,130
+peach,39
+carrot,25
+potato,130
+clams,199
+coconut milk,42
+green beans,35
+plum,46
+cheese,113
+quinoa,120
+anchovies,189
+salami,350
+bell pepper,24
+yogurt,59
+lobster,43
+ham,300
+chickpeas,269
+duck,300
+sausage,200
+green beans,35
+orange,62
+tofu,76
+tuna,100
+milk,103
+kidney beans,112
+peas,59
+zucchini,33
+garlic,4
+corn,96
+bread,79
+carrot,25
+scallops,69
+bulgur,222
+apple,95
+corn,96
+kiwi,41
+peanut butter,188
+pomegranate,234
+tomato,22
+bulgur,222
+cucumber,16
+salmon,208
+bacon,50
+scallops,69
+scallops,69
+tomato,22
+potato,130
+cod,22
+bread,79
+cherry,50
+turkey,130
+crab,83
+barley,193
+pasta,221
+lettuce,15
+sausage,200
+garlic,4
+tilapia,45
+bread,79
+plum,46
+scallops,69
+sardines,105
+watermelon,30
+coconut milk,42
+pasta,221
+watermelon,30
+banana,105
+pork,242
+barley,193
+sardines,105
+plum,46
+crab,83
+sardines,105
+mango,201
+shrimp,99
+tofu,76
+garlic,4
+mackerel,92
+pomegranate,234
+bacon,50
+peanut butter,188
+eggplant,20
+yogurt,59
+scallops,69
+egg,78
+mackerel,92
+shrimp,99
+cabbage,25
+sardines,105
+clams,199
+almond milk,46
+blueberries,84
+scallops,69
+sausage,200
+clams,199
+mango,201
+shrimp,99
+yogurt,59
+crab,83
+wheat,118
+clams,199
+barley,193
+pomegranate,234
+almond milk,46
+pineapple,82
+scallops,69
+cod,22
+cucumber,16
+lamb,400
+orange,62
+milk,103
+carrot,25
+potato,130
+lamb,400
+mackerel,92
+pepperoni,350
+lamb,400
+kidney beans,112
+lobster,43
+ham,300
+trout,109
+watermelon,30
+cheese,113
+bulgur,222
+kiwi,41
+blueberries,84
+chickpeas,269
+cheese,113
+prosciutto,280
+cucumber,16
+banana,105
+prosciutto,280
+broccoli,55
+rice,206
+kiwi,41
+orange,62
+peanut butter,188
+mackerel,92
+blueberries,84
+bulgur,222
+garlic,4
+pepperoni,350
+pear,101
+beef,250
+oats,110
+bacon,50
+peanut butter,188
+asparagus,20
+tofu,76
+tofu,76
+pepperoni,350
+mango,201
+egg,78
+chicken breast,165
+yogurt,59
+shrimp,99
+catfish,223
+prosciutto,280
+haddock,206
+ham,300
+spinach,23
+asparagus,20
+pasta,221
+pear,101
+broccoli,55
+mackerel,92
+strawberries,49
+trout,109
+tomato,22
+lobster,43
+turkey,130
+peas,59
+turkey,130
+trout,109
+bread,79
+grapes,62
+eggplant,20
+zucchini,33
+cheese,113
+bell pepper,24
+corn,96
+salami,350
+barley,193
+pepperoni,350
+duck,300
+sardines,105
+barley,193
+haddock,206
+haddock,206
+clams,199
+anchovies,189
+zucchini,33
+lettuce,15
+strawberries,49
+wheat,118
+pomegranate,234
+orange,62
+lamb,400
+orange,62
+lentils,116
+spinach,23
+cucumber,16
+catfish,223
+tuna,100
+black beans,227
+peas,59
+clams,199
+lamb,400
+soy milk,30
+asparagus,20
+kiwi,41
+wheat,118
+anchovies,189
+onion,40
+potato,130
+bread,79
+cauliflower,22
+garlic,4
+scallops,69
+potato,130
+kiwi,41
+kidney beans,112
+watermelon,30
+pear,101
+pasta,221
+milk,103
+cabbage,25
+wheat,118
+oats,110
+tomato,22
+cod,22
+watermelon,30
+bulgur,222
+carrot,25
+soy milk,30
+banana,105
+pork,242
+chicken breast,165
+zucchini,33
+watermelon,30
+clams,199
+lobster,43
+oats,110
+turkey,130
+sardines,105
+pork,242
+carrot,25
+onion,40
+green beans,35
+barley,193
+lentils,116
+scallops,69
+pork,242
+milk,103
+ham,300
+banana,105
+pepperoni,350
+zucchini,33
+blueberries,84
+scallops,69
+onion,40
+cauliflower,22
+broccoli,55
+potato,130
+lamb,400
+plum,46
+apple,95
+sausage,200
+banana,105
+salami,350
+almonds,164
+almond milk,46
+peanut butter,188
+crab,83
+bread,79
+spinach,23
+almonds,164
+ham,300
+apple,95
+pineapple,82
+tomato,22
+beef,250
+kiwi,41
+oysters,98
+sardines,105
+tomato,22
+soy milk,30
+bulgur,222
+mackerel,92
+tilapia,45
+tomato,22
+mackerel,92
+tomato,22
+quinoa,120
+blueberries,84
+shrimp,99
+tilapia,45
+onion,40
+lamb,400
+sardines,105
+black beans,227
+cherry,50
+zucchini,33
+mango,201
+pomegranate,234
+bacon,50
+wheat,118
+quinoa,120
+garlic,4
+cauliflower,22
+grapes,62
+mango,201
+zucchini,33
+chicken breast,165
+carrot,25
+rye,45
+beef,250
+anchovies,189
+green beans,35
+cauliflower,22
+peach,39
+peach,39
+cauliflower,22
+peach,39
+blueberries,84
+apple,95
+oats,110
+banana,105
+bacon,50
+pineapple,82
+scallops,69
+kidney beans,112
+avocado,234
+spinach,23
+plum,46
+corn,96
+apple,95
+cod,22
+pepperoni,350
+chickpeas,269
+sausage,200
+bell pepper,24
+mushroom,15
+crab,83
+avocado,234
+spinach,23
+milk,103
+anchovies,189
+zucchini,33
+garlic,4
+cod,22
+orange,62
+sausage,200
+peas,59
+salmon,208
+tilapia,45
+oysters,98
+tofu,76
+apple,95
+pomegranate,234
+sausage,200
+pomegranate,234
+bacon,50
+duck,300
+prosciutto,280
+coconut milk,42
+tuna,100
+almond milk,46
+pear,101
+shrimp,99
+pineapple,82
+almonds,164
+soy milk,30
+ham,300
+haddock,206
+tomato,22
+rice,206
+pomegranate,234
+rice,206
+mackerel,92
+mackerel,92
+milk,103
+shrimp,99
+peas,59
+pear,101
+wheat,118
+sausage,200
+cod,22
+grapes,62
+cherry,50
+carrot,25
+lamb,400
+cauliflower,22
+salami,350
+avocado,234
+soy milk,30
+pork,242
+barley,193
+oysters,98
+spinach,23
+duck,300
+cabbage,25
+scallops,69
+oats,110
+lettuce,15
+cucumber,16
+orange,62
+plum,46
+turkey,130
+avocado,234
+soy milk,30
+corn,96
+black beans,227
+soy milk,30
+clams,199
+pomegranate,234
+watermelon,30
+cabbage,25
+coconut milk,42
+wheat,118
+beef,250
+kiwi,41
+kiwi,41
+catfish,223
+egg,78
+blueberries,84
+kiwi,41
+peas,59
+salami,350
+grapes,62
+crab,83
+coconut milk,42
+tilapia,45
+prosciutto,280
+anchovies,189
+tilapia,45
+black beans,227
+cauliflower,22
+mango,201
+ham,300
+carrot,25
+garlic,4
+ham,300
+apple,95
+garlic,4
+peanut butter,188
+lamb,400
+pork,242
+rice,206
+soy milk,30
+almond milk,46
+almonds,164
+carrot,25
+plum,46
+peas,59
+pear,101
+almond milk,46
+carrot,25
+quinoa,120
+pepperoni,350
+lamb,400
+mackerel,92
+apple,95
+broccoli,55
+tilapia,45
+pork,242
+grapes,62
+lettuce,15
+cheese,113
+pasta,221
+beef,250
+potato,130
+grapes,62
+cauliflower,22
+almond milk,46
+duck,300
+watermelon,30
+bacon,50
+cod,22
+carrot,25
+egg,78
+peanut butter,188
+mackerel,92
+rye,45
+lentils,116
+oysters,98
+clams,199
+pineapple,82
+cheese,113
+sardines,105
+almonds,164
+peas,59
+cod,22
+banana,105
+pomegranate,234
+apple,95
+rice,206
+quinoa,120
+cucumber,16
+chicken breast,165
+avocado,234
+prosciutto,280
+anchovies,189
+haddock,206
+plum,46
+zucchini,33
+haddock,206
+spinach,23
+clams,199
+banana,105
+shrimp,99
+peach,39
+tofu,76
+anchovies,189
+apple,95
+tuna,100
+peas,59
+lentils,116
+pasta,221
+pork,242
+chickpeas,269
+eggplant,20
+egg,78
+haddock,206
+asparagus,20
+oysters,98
+yogurt,59
+onion,40
+potato,130
+zucchini,33
+almonds,164
+almonds,164
+peanut butter,188
+ham,300
+barley,193
+lentils,116
+haddock,206
+blueberries,84
+pineapple,82
+cod,22
+watermelon,30
+cauliflower,22
+crab,83
+almond milk,46
+almond milk,46
+clams,199
+trout,109
+crab,83
+cheese,113
+yogurt,59
+black beans,227
+clams,199
+turkey,130
+sardines,105
+tilapia,45
+pineapple,82
+cucumber,16
+sardines,105
+scallops,69
+blueberries,84
+oats,110
+spinach,23
+yogurt,59
+watermelon,30
+blueberries,84
+cauliflower,22
+cabbage,25
+lettuce,15
+green beans,35
+pasta,221
+shrimp,99
+shrimp,99
+tofu,76
+cod,22
+grapes,62
+mackerel,92
+cherry,50
+cabbage,25
+mackerel,92
+watermelon,30
+salami,350
+peach,39
+quinoa,120
+tuna,100
+rye,45
+cabbage,25
+shrimp,99
+quinoa,120
+bell pepper,24
+grapes,62
+pomegranate,234
+lamb,400
+haddock,206
+bulgur,222
+rice,206
+carrot,25
+green beans,35
+sardines,105
+beef,250
+onion,40
+bread,79
+mushroom,15
+cheese,113
+tilapia,45
+cherry,50
+shrimp,99
+sardines,105
+cabbage,25
+lobster,43
+mango,201
+milk,103
+almonds,164
+beef,250
+plum,46
+corn,96
+quinoa,120
+watermelon,30
+wheat,118
+cauliflower,22
+wheat,118
+ham,300
+pineapple,82
+cucumber,16
+turkey,130
+yogurt,59
+tuna,100
+egg,78
+chicken breast,165
+lobster,43
+prosciutto,280
+bacon,50
+cheese,113
+beef,250
+avocado,234
+coconut milk,42
+peanut butter,188
+anchovies,189
+pomegranate,234
+potato,130
+almonds,164
+cherry,50
+chickpeas,269
+green beans,35
+sardines,105
+kidney beans,112
+egg,78
+rice,206
+strawberries,49
+eggplant,20
+bell pepper,24
+green beans,35
+eggplant,20
+peas,59
+salami,350
+kidney beans,112
+pepperoni,350
+crab,83
+potato,130
+mackerel,92
+cod,22
+rice,206
+anchovies,189
+cod,22
+mackerel,92
+peas,59
+blueberries,84
+mackerel,92
+garlic,4
+wheat,118
+yogurt,59
+sausage,200
+mackerel,92
+mackerel,92
+wheat,118
+grapes,62
+shrimp,99
+carrot,25
+prosciutto,280
+mackerel,92
+wheat,118
+cod,22
+beef,250
+pepperoni,350
+pork,242
+pear,101
+cheese,113
+tomato,22
+pineapple,82
+coconut milk,42
+pasta,221
+coconut milk,42
+green beans,35
+tofu,76
+shrimp,99
+bacon,50
+zucchini,33
+egg,78
+chicken breast,165
+bread,79
+pepperoni,350
+tofu,76
+trout,109
+tilapia,45
+rye,45
+corn,96
+turkey,130
+coconut milk,42
+corn,96
+black beans,227
+pear,101
+pineapple,82
+rye,45
+anchovies,189
+pork,242
+ham,300
+lettuce,15
+trout,109
+mushroom,15
+coconut milk,42
+catfish,223
+scallops,69
+pork,242
+asparagus,20
+duck,300
+asparagus,20
+oats,110
+eggplant,20
+sardines,105
+mango,201
+coconut milk,42
+kidney beans,112
+quinoa,120
+barley,193
+sausage,200
+shrimp,99
+spinach,23
+almonds,164
+pear,101
+tuna,100
+cucumber,16
+asparagus,20
+cod,22
+barley,193
+broccoli,55
+bulgur,222
+almond milk,46
+egg,78
+tofu,76
+peas,59
+almond milk,46
+pork,242
+lamb,400
+spinach,23
+chicken breast,165
+quinoa,120
+beef,250
+kiwi,41
+ham,300
+ham,300
+lobster,43
+carrot,25
+corn,96
+lamb,400
+barley,193
+strawberries,49
+sardines,105
+broccoli,55
+scallops,69
+sausage,200
+barley,193
+pork,242
+anchovies,189
+pineapple,82
+almonds,164
+pomegranate,234
+chicken breast,165
+cod,22
+cabbage,25
+garlic,4
+blueberries,84
+banana,105
+lettuce,15
+lettuce,15
+salami,350
+tofu,76
+avocado,234
+pasta,221
+grapes,62
+strawberries,49
+black beans,227
+duck,300
+kidney beans,112
+bacon,50
+onion,40
+lamb,400
+milk,103
+turkey,130
+black beans,227
+avocado,234
+pasta,221
+bell pepper,24
+bulgur,222
+catfish,223
+zucchini,33
+eggplant,20
+crab,83
+pear,101
+tomato,22
+kiwi,41
+carrot,25
+almonds,164
+sardines,105
+bread,79
+coconut milk,42
+milk,103
+turkey,130
+pepperoni,350
+cucumber,16
+bread,79
+peanut butter,188
+cucumber,16
+potato,130
+duck,300
+cod,22
+lentils,116
+coconut milk,42
+corn,96
+beef,250
+apple,95
+bacon,50
+cucumber,16
+rye,45
+tuna,100
+oysters,98
+broccoli,55
+yogurt,59
+lettuce,15
+avocado,234
+lentils,116
+tofu,76
+pear,101
+banana,105
+beef,250
+apple,95
+wheat,118
+tofu,76
+catfish,223
+green beans,35
+eggplant,20
+tilapia,45
+beef,250
+tomato,22
+bulgur,222
+pork,242
+sausage,200
+tuna,100
+plum,46
+banana,105
+strawberries,49
+haddock,206
+tuna,100
+lettuce,15
+crab,83
+beef,250
+turkey,130
+lamb,400
+crab,83
+turkey,130
+bacon,50
+duck,300
+peach,39
+catfish,223
+pasta,221
+shrimp,99
+yogurt,59
+tomato,22
+potato,130
+rye,45
+prosciutto,280
+pork,242
+carrot,25
+cabbage,25
+strawberries,49
+soy milk,30
+cod,22
+kidney beans,112
+grapes,62
+lamb,400
+cheese,113
+eggplant,20
+carrot,25
+turkey,130
+ham,300
+green beans,35
+onion,40
+clams,199
+anchovies,189
+chickpeas,269
+trout,109
+eggplant,20
+haddock,206
+quinoa,120
+almonds,164
+catfish,223
+watermelon,30
+salmon,208
+wheat,118
+carrot,25
+carrot,25
+garlic,4
+grapes,62
+pineapple,82
+pomegranate,234
+lobster,43
+zucchini,33
+catfish,223
+salami,350
+kidney beans,112
+oats,110
+anchovies,189
+crab,83
+avocado,234
+lettuce,15
+turkey,130
+almond milk,46
+bell pepper,24
+eggplant,20
+prosciutto,280
+tomato,22
+black beans,227
+wheat,118
+pear,101
+tofu,76
+spinach,23
+barley,193
+coconut milk,42
+ham,300
+scallops,69
+tuna,100
+clams,199
+pineapple,82
+lettuce,15
+peach,39
+prosciutto,280
+barley,193
+avocado,234
+watermelon,30
+scallops,69
+avocado,234
+pasta,221
+wheat,118
+chicken breast,165
+cherry,50
+peanut butter,188
+duck,300
+kidney beans,112
+plum,46
+cherry,50
+pork,242
+orange,62
+salami,350
+peach,39
+kidney beans,112
+sausage,200
+grapes,62
+salami,350
+duck,300
+catfish,223
+trout,109
+yogurt,59
+pork,242
+orange,62
+cod,22
+pepperoni,350
+onion,40
+blueberries,84
+ham,300
+black beans,227
+cod,22
+chickpeas,269
+oats,110
+rye,45
+clams,199
+trout,109
+wheat,118
+pasta,221
+zucchini,33
+anchovies,189
+black beans,227
+yogurt,59
+peanut butter,188
+sausage,200
+tomato,22
+blueberries,84
+mushroom,15
+grapes,62
+ham,300
+mango,201
+cheese,113
+crab,83
+eggplant,20
+almond milk,46
+crab,83
+haddock,206
+cucumber,16
+lobster,43
+banana,105
+corn,96
+clams,199
+blueberries,84
+tuna,100
+strawberries,49
+milk,103
+quinoa,120
+apple,95
+almond milk,46
+chicken breast,165
+crab,83
+cabbage,25
+pomegranate,234
+black beans,227
+pork,242
+egg,78
+onion,40
+sausage,200
+oats,110
+green beans,35
+carrot,25
+trout,109
+corn,96
+cabbage,25
+sausage,200
+pineapple,82
+broccoli,55
+scallops,69
+sausage,200
+watermelon,30
+kidney beans,112
+lettuce,15
+peas,59
+bell pepper,24
+orange,62
+onion,40
+cabbage,25
+strawberries,49
+sardines,105
+oysters,98
+barley,193
+cheese,113
+scallops,69
+green beans,35
+catfish,223
+pasta,221
+potato,130
+prosciutto,280
+tomato,22
+cod,22
+rice,206
+asparagus,20
+milk,103
+zucchini,33
+tilapia,45
+pear,101
+carrot,25
+cod,22
+rye,45
+watermelon,30
+grapes,62
+soy milk,30
+chicken breast,165
+bulgur,222
+beef,250
+wheat,118
+pork,242
+banana,105
+tomato,22
+trout,109
+duck,300
+scallops,69
+tomato,22
+strawberries,49
+pomegranate,234
+garlic,4
+turkey,130
+catfish,223
+blueberries,84
+lamb,400
+rice,206
+mango,201
+apple,95
+lentils,116
+prosciutto,280
+potato,130
+haddock,206
+rye,45
+coconut milk,42
+bacon,50
+kiwi,41
+oats,110
+peanut butter,188
+pasta,221
+avocado,234
+potato,130
+sardines,105
+clams,199
+apple,95
+clams,199
+mackerel,92
+prosciutto,280
+oats,110
+watermelon,30
+prosciutto,280
+pomegranate,234
+green beans,35
+trout,109
+green beans,35
+oysters,98
+wheat,118
+kiwi,41
+peach,39
+duck,300
+scallops,69
+cauliflower,22
+peas,59
+haddock,206
+bacon,50
+pineapple,82
+peanut butter,188
+soy milk,30
+pasta,221
+apple,95
+lamb,400
+pear,101
+onion,40
+cucumber,16
+blueberries,84
+mackerel,92
+rye,45
+pear,101
+cabbage,25
+pineapple,82
+barley,193
+corn,96
+peas,59
+tuna,100
+corn,96
+green beans,35
+oats,110
+lamb,400
+bread,79
+oysters,98
+orange,62
+lamb,400
+cucumber,16
+apple,95
+peach,39
+chicken breast,165
+corn,96
+yogurt,59
+soy milk,30
+mango,201
+lentils,116
+banana,105
+cod,22
+oats,110
+cheese,113
+soy milk,30
+kiwi,41
+almond milk,46
+cheese,113
+corn,96
+anchovies,189
+soy milk,30
+almonds,164
+lentils,116
+chicken breast,165
+zucchini,33
+barley,193
+lentils,116
+crab,83
+bacon,50
+lentils,116
+pomegranate,234
+asparagus,20
+cauliflower,22
+pork,242
+pear,101
+tilapia,45
+potato,130
+almonds,164
+tomato,22
+duck,300
+tilapia,45
+lamb,400
+cod,22
+prosciutto,280
+anchovies,189
+cheese,113
+almond milk,46
+pork,242
+black beans,227
+strawberries,49
+prosciutto,280
+haddock,206
+almond milk,46
+wheat,118
+watermelon,30
+bread,79
+asparagus,20
+watermelon,30
+peach,39
+peach,39
+chickpeas,269
+almond milk,46
+asparagus,20
+salami,350
+haddock,206
+tilapia,45
+salmon,208
+rice,206
+kidney beans,112
+watermelon,30
+sardines,105
+pepperoni,350
+kiwi,41
+quinoa,120
+quinoa,120
+cheese,113
+sardines,105
+pineapple,82
+spinach,23
+zucchini,33
+strawberries,49
+pomegranate,234
+asparagus,20
+cherry,50
+rice,206
+tilapia,45
+tilapia,45
+salami,350
+blueberries,84
+yogurt,59
+bacon,50
+mushroom,15
+blueberries,84
+spinach,23
+wheat,118
+turkey,130
+grapes,62
+lamb,400
+eggplant,20
+zucchini,33
+pomegranate,234
+shrimp,99
+cheese,113
+bell pepper,24
+onion,40
+salami,350
+almond milk,46
+avocado,234
+mackerel,92
+sardines,105
+almond milk,46
+tilapia,45
+tofu,76
+banana,105
+tuna,100
+zucchini,33
+cauliflower,22
+mackerel,92
+barley,193
+bacon,50
+lobster,43
+pineapple,82
+pasta,221
+yogurt,59
+salmon,208
+avocado,234
+sausage,200
+quinoa,120
+prosciutto,280
+ham,300
+almond milk,46
+banana,105
+lentils,116
+sardines,105
+watermelon,30
+pear,101
+trout,109
+tilapia,45
+potato,130
+pear,101
+salmon,208
+watermelon,30
+peas,59
+green beans,35
+trout,109
+chickpeas,269
+tilapia,45
+yogurt,59
+bacon,50
+orange,62
+corn,96
+cod,22
+lentils,116
+bacon,50
+bread,79
+lettuce,15
+quinoa,120
+oysters,98
+rye,45
+kiwi,41
+chicken breast,165
+wheat,118
+bulgur,222
+barley,193
+cheese,113
+garlic,4
+crab,83
+bulgur,222
+mushroom,15
+anchovies,189
+apple,95
+peanut butter,188
+sausage,200
+peanut butter,188
+kidney beans,112
+ham,300
+zucchini,33
+kidney beans,112
+lobster,43
+eggplant,20
+peach,39
+carrot,25
+duck,300
+catfish,223
+oysters,98
+crab,83
+grapes,62
+chickpeas,269
+black beans,227
+chickpeas,269
+rice,206
+catfish,223
+cheese,113
+lobster,43
+haddock,206
+green beans,35
+oats,110
+lettuce,15
+milk,103
+apple,95
+cherry,50
+duck,300
+wheat,118
+rye,45
+apple,95
+chicken breast,165
+lobster,43
+pomegranate,234
+sausage,200
+mango,201
+pear,101
+almond milk,46
+rice,206
+beef,250
+pear,101
+spinach,23
+peas,59
+chicken breast,165
+salami,350
+lettuce,15
+crab,83
+peanut butter,188
+zucchini,33
+salami,350
+blueberries,84
+cabbage,25
+onion,40
+potato,130
+mango,201
+soy milk,30
+lobster,43
+lamb,400
+almond milk,46
+yogurt,59
+asparagus,20
+corn,96
+spinach,23
+trout,109
+barley,193
+beef,250
+eggplant,20
+tofu,76
+mackerel,92
+bread,79
+bulgur,222
+black beans,227
+garlic,4
+pear,101
+pear,101
+mango,201
+oysters,98
+clams,199
+watermelon,30
+tilapia,45
+watermelon,30
+asparagus,20
+mackerel,92
+kidney beans,112
+carrot,25
+haddock,206
+cabbage,25
+mackerel,92
+chicken breast,165
+rye,45
+kidney beans,112
+plum,46
+corn,96
+grapes,62
+sausage,200
+pasta,221
+oysters,98
+lobster,43
+almond milk,46
+soy milk,30
+scallops,69
+tomato,22
+turkey,130
+prosciutto,280
+almond milk,46
+lettuce,15
+pineapple,82
+soy milk,30
+milk,103
+oats,110
+chickpeas,269
+salmon,208
+oysters,98
+tuna,100
+catfish,223
+kidney beans,112
+rice,206
+plum,46
+oysters,98
+pear,101
+oysters,98
+onion,40
+blueberries,84
+apple,95
+rice,206
+garlic,4
+quinoa,120
+pear,101
+pear,101
+tuna,100
+almonds,164
+tofu,76
+peanut butter,188
+mushroom,15
+ham,300
+coconut milk,42
+watermelon,30
+cauliflower,22
+bread,79
+lamb,400
+cod,22
+chicken breast,165
+avocado,234
+black beans,227
+tofu,76
+trout,109
+chicken breast,165
+tomato,22
+cod,22
+pasta,221
+banana,105
+scallops,69
+peanut butter,188
+yogurt,59
+green beans,35
+spinach,23
+sardines,105
+pear,101
+peach,39
+duck,300
+salami,350
+garlic,4
+pepperoni,350
+tuna,100
+cauliflower,22
+avocado,234
+cucumber,16
+banana,105
+yogurt,59
+almonds,164
+clams,199
+cheese,113
+crab,83
+pepperoni,350
+chicken breast,165
+black beans,227
+ham,300
+blueberries,84
+oats,110
+duck,300
+egg,78
+bacon,50
+pomegranate,234
+strawberries,49
+mushroom,15
+rice,206
+prosciutto,280
+pomegranate,234
+scallops,69
+pear,101
+watermelon,30
+bulgur,222
+bread,79
+potato,130
+tuna,100
+peach,39
+barley,193
+onion,40
+soy milk,30
+prosciutto,280
+yogurt,59
+pepperoni,350
+oats,110
+beef,250
+pear,101
+carrot,25
+tilapia,45
+duck,300
+duck,300
+coconut milk,42
+crab,83
+zucchini,33
+tilapia,45
+rye,45
+kidney beans,112
+yogurt,59
+peanut butter,188
+spinach,23
+avocado,234
+avocado,234
+cod,22
+strawberries,49
+cheese,113
+eggplant,20
+mushroom,15
+egg,78
+tilapia,45
+milk,103
+pear,101
+apple,95
+anchovies,189
+orange,62
+cabbage,25
+bulgur,222
+broccoli,55
+rye,45
+tilapia,45
+milk,103
+corn,96
+ham,300
+lamb,400
+sausage,200
+quinoa,120
+almond milk,46
+egg,78
+chicken breast,165
+cucumber,16
+oysters,98
+bulgur,222
+bell pepper,24
+sausage,200
+ham,300
+lentils,116
+pear,101
+milk,103
+barley,193
+tofu,76
+tilapia,45
+onion,40
+cabbage,25
+salmon,208
+trout,109
+chickpeas,269
+turkey,130
+peach,39
+onion,40
+spinach,23
+tofu,76
+kidney beans,112
+mango,201
+tofu,76
+anchovies,189
+cheese,113
+duck,300
+pasta,221
+tuna,100
+oats,110
+broccoli,55
+bread,79
+cabbage,25
+chicken breast,165
+pear,101
+prosciutto,280
+lentils,116
+oats,110
+avocado,234
+ham,300
+lentils,116
+mango,201
+garlic,4
+mushroom,15
+cheese,113
+oats,110
+asparagus,20
+lobster,43
+oysters,98
+beef,250
+lobster,43
+lettuce,15
+almond milk,46
+lettuce,15
+strawberries,49
+quinoa,120
+carrot,25
+mackerel,92
+tofu,76
+cabbage,25
+bulgur,222
+almond milk,46
+prosciutto,280
+bacon,50
+corn,96
+cod,22
+kidney beans,112
+banana,105
+lentils,116
+prosciutto,280
+zucchini,33
+mackerel,92
+egg,78
+rye,45
+lamb,400
+bacon,50
+bread,79
+rice,206
+mackerel,92
+cabbage,25
+salmon,208
+oysters,98
+oysters,98
+bacon,50
+pineapple,82
+cod,22
+orange,62
+yogurt,59
+tilapia,45
+salami,350
+shrimp,99
+carrot,25
+tofu,76
+pomegranate,234
+catfish,223
+mackerel,92
+mackerel,92
+peach,39
+green beans,35
+tuna,100
+zucchini,33
+ham,300
+kiwi,41
+blueberries,84
+carrot,25
+watermelon,30
+mango,201
+broccoli,55
+mackerel,92
+apple,95
+chicken breast,165
+lobster,43
+scallops,69
+cherry,50
+pork,242
+lobster,43
+pineapple,82
+ham,300
+sardines,105
+zucchini,33
+soy milk,30
+bell pepper,24
+lamb,400
+mango,201
+haddock,206
+yogurt,59
+chicken breast,165
+kiwi,41
+zucchini,33
+pork,242
+cabbage,25
+tilapia,45
+kiwi,41
+pepperoni,350
+mackerel,92
+pear,101
+broccoli,55
+trout,109
+beef,250
+crab,83
+sausage,200
+green beans,35
+quinoa,120
+rice,206
+sausage,200
+avocado,234
+chickpeas,269
+mackerel,92
+trout,109
+soy milk,30
+asparagus,20
+quinoa,120
+haddock,206
+pomegranate,234
+lettuce,15
+strawberries,49
+clams,199
+shrimp,99
+almond milk,46
+mackerel,92
+black beans,227
+lentils,116
+yogurt,59
+apple,95
+bell pepper,24
+peach,39
+spinach,23
+shrimp,99
+bell pepper,24
+onion,40
+peas,59
+bulgur,222
+sardines,105
+bacon,50
+bulgur,222
+black beans,227
+soy milk,30
+egg,78
+prosciutto,280
+crab,83
+sardines,105
+tuna,100
+avocado,234
+banana,105
+tilapia,45
+clams,199
+salami,350
+rye,45
+yogurt,59
+grapes,62
+tuna,100
+beef,250
+tomato,22
+eggplant,20
+oats,110
+black beans,227
+peach,39
+lentils,116
+cabbage,25
+shrimp,99
+cucumber,16
+almond milk,46
+shrimp,99
+cauliflower,22
+lamb,400
+kiwi,41
+anchovies,189
+avocado,234
+kiwi,41
+onion,40
+pear,101
+cauliflower,22
+almond milk,46
+asparagus,20
+prosciutto,280
+almond milk,46
+milk,103
+clams,199
+ham,300
+tilapia,45
+pork,242
+peas,59
+tuna,100
+pasta,221
+zucchini,33
+soy milk,30
+barley,193
+scallops,69
+cheese,113
+lentils,116
+peach,39
+spinach,23
+bulgur,222
+barley,193
+pasta,221
+green beans,35
+coconut milk,42
+quinoa,120
+mango,201
+spinach,23
+lamb,400
+mango,201
+peas,59
+broccoli,55
+cherry,50
+haddock,206
+sausage,200
+scallops,69
+asparagus,20
+cherry,50
+mushroom,15
+pasta,221
+carrot,25
+shrimp,99
+clams,199
+tuna,100
+cucumber,16
+eggplant,20
+soy milk,30
+green beans,35
+bell pepper,24
+salmon,208
+asparagus,20
+lettuce,15
+sausage,200
+asparagus,20
+prosciutto,280
+pasta,221
+peanut butter,188
+apple,95
+yogurt,59
+soy milk,30
+pear,101
+rice,206
+chicken breast,165
+kidney beans,112
+grapes,62
+clams,199
+clams,199
+bulgur,222
+barley,193
+tofu,76
+tomato,22
+oysters,98
+cabbage,25
+mackerel,92
+green beans,35
+anchovies,189
+oysters,98
+watermelon,30
+pineapple,82
+milk,103
+eggplant,20
+strawberries,49
+blueberries,84
+soy milk,30
+milk,103
+oats,110
+watermelon,30
+rye,45
+banana,105
+garlic,4
+almond milk,46
+turkey,130
+milk,103
+cheese,113
+garlic,4
+scallops,69
+quinoa,120
+anchovies,189
+cherry,50
+potato,130
+almond milk,46
+eggplant,20
+crab,83
+cucumber,16
+peas,59
+peach,39
+pepperoni,350
+rice,206
+onion,40
+turkey,130
+green beans,35
+apple,95
+chicken breast,165
+prosciutto,280
+coconut milk,42
+duck,300
+cheese,113
+trout,109
+coconut milk,42
+cherry,50
+pasta,221
+cherry,50
+zucchini,33
+banana,105
+oats,110
+mackerel,92
+black beans,227
+quinoa,120
+tofu,76
+milk,103
+salmon,208
+mushroom,15
+kiwi,41
+cabbage,25
+cauliflower,22
+salmon,208
+pork,242
+soy milk,30
+bell pepper,24
+sausage,200
+pomegranate,234
+shrimp,99
+bulgur,222
+mackerel,92
+tilapia,45
+oats,110
+eggplant,20
+barley,193
+orange,62
+peach,39
+haddock,206
+milk,103
+crab,83
+cod,22
+salmon,208
+egg,78
+duck,300
+salmon,208
+cabbage,25
+bell pepper,24
+chicken breast,165
+cheese,113
+shrimp,99
+catfish,223
+kidney beans,112
+spinach,23
+rice,206
+orange,62
+onion,40
+blueberries,84
+potato,130
+cheese,113
+watermelon,30
+mackerel,92
+cherry,50
+tofu,76
+catfish,223
+milk,103
+coconut milk,42
+strawberries,49
+cherry,50
+mushroom,15
+cherry,50
+grapes,62
+avocado,234
+anchovies,189
+pork,242
+peanut butter,188
+kidney beans,112
+cherry,50
+black beans,227
+sausage,200
+bulgur,222
+mackerel,92
+eggplant,20
+lamb,400
+tilapia,45
+cucumber,16
+green beans,35
+tilapia,45
+oats,110
+onion,40
+potato,130
+lobster,43
+pork,242
+apple,95
+salmon,208
+apple,95
+corn,96
+cod,22
+mango,201
+blueberries,84
+mushroom,15
+scallops,69
+bread,79
+peach,39
+almonds,164
+black beans,227
+bacon,50
+kiwi,41
+lobster,43
+apple,95
+strawberries,49
+bell pepper,24
+pepperoni,350
+beef,250
+oysters,98
+catfish,223
+orange,62
+pear,101
+bulgur,222
+yogurt,59
+mackerel,92
+mango,201
+almond milk,46
+clams,199
+catfish,223
+tilapia,45
+tomato,22
+lettuce,15
+carrot,25
+quinoa,120
+cabbage,25
+corn,96
+cheese,113
+oats,110
+mushroom,15
+pineapple,82
+eggplant,20
+haddock,206
+bulgur,222
+yogurt,59
+mango,201
+banana,105
+kiwi,41
+yogurt,59
+salmon,208
+blueberries,84
+catfish,223
+onion,40
+chicken breast,165
+tilapia,45
+shrimp,99
+scallops,69
+zucchini,33
+coconut milk,42
+scallops,69
+tomato,22
+garlic,4
+crab,83
+eggplant,20
+broccoli,55
+bulgur,222
+pineapple,82
+mango,201
+blueberries,84
+sausage,200
+blueberries,84
+pomegranate,234
+chickpeas,269
+pineapple,82
+chicken breast,165
+zucchini,33
+salmon,208
+corn,96
+cod,22
+cabbage,25
+mackerel,92
+catfish,223
+quinoa,120
+oysters,98
+strawberries,49
+egg,78
+peach,39
+pepperoni,350
+duck,300
+carrot,25
+pasta,221
+turkey,130
+cherry,50
+almond milk,46
+quinoa,120
+egg,78
+mango,201
+cabbage,25
+pineapple,82
+prosciutto,280
+peanut butter,188
+anchovies,189
+potato,130
+banana,105
+lentils,116
+cabbage,25
+shrimp,99
+chicken breast,165
+tilapia,45
+black beans,227
+crab,83
+pepperoni,350
+cucumber,16
+pineapple,82
+ham,300
+potato,130
+cheese,113
+blueberries,84
+lettuce,15
+oats,110
+kidney beans,112
+peas,59
+almonds,164
+banana,105
+watermelon,30
+strawberries,49
+banana,105
+trout,109
+rice,206
+pasta,221
+cherry,50
+tuna,100
+shrimp,99
+orange,62
+watermelon,30
+carrot,25
+peanut butter,188
+haddock,206
+lettuce,15
+chicken breast,165
+peach,39
+almonds,164
+haddock,206
+mango,201
+kidney beans,112
+asparagus,20
+plum,46
+pepperoni,350
+almond milk,46
+tuna,100
+scallops,69
+clams,199
+potato,130
+ham,300
+turkey,130
+peanut butter,188
+chicken breast,165
+ham,300
+carrot,25
+strawberries,49
+bread,79
+salmon,208
+cheese,113
+lamb,400
+duck,300
+blueberries,84
+pork,242
+pear,101
+coconut milk,42
+green beans,35
+cherry,50
+lamb,400
+tuna,100
+anchovies,189
+sausage,200
+cucumber,16
+barley,193
+peach,39
+turkey,130
+bread,79
+turkey,130
+mackerel,92
+apple,95
+black beans,227
+clams,199
+egg,78
+crab,83
+broccoli,55
+prosciutto,280
+garlic,4
+lettuce,15
+crab,83
+kidney beans,112
+rice,206
+green beans,35
+peanut butter,188
+oats,110
+shrimp,99
+rye,45
+salmon,208
+corn,96
+tofu,76
+cheese,113
+pepperoni,350
+sardines,105
+plum,46
+pear,101
+blueberries,84
+shrimp,99
+turkey,130
+cabbage,25
+prosciutto,280
+wheat,118
+catfish,223
+carrot,25
+pork,242
+cauliflower,22
+barley,193
+cheese,113
+soy milk,30
+avocado,234
+kiwi,41
+cod,22
+tilapia,45
+kiwi,41
+peas,59
+black beans,227
+clams,199
+haddock,206
+tilapia,45
+crab,83
+spinach,23
+mackerel,92
+tilapia,45
+orange,62
+blueberries,84
+sardines,105
+chicken breast,165
+kidney beans,112
+haddock,206
+soy milk,30
+turkey,130
+lamb,400
+kidney beans,112
+anchovies,189
+beef,250
+tuna,100
+crab,83
+grapes,62
+scallops,69
+carrot,25
+barley,193
+shrimp,99
+lentils,116
+beef,250
+tofu,76
+quinoa,120
+zucchini,33
+cauliflower,22
+bacon,50
+spinach,23
+crab,83
+yogurt,59
+shrimp,99
+garlic,4
+cod,22
+yogurt,59
+tofu,76
+quinoa,120
+cucumber,16
+milk,103
+lettuce,15
+salami,350
+potato,130
+garlic,4
+crab,83
+cucumber,16
+turkey,130
+pineapple,82
+mushroom,15
+almond milk,46
+black beans,227
+avocado,234
+anchovies,189
+banana,105
+broccoli,55
+coconut milk,42
+oysters,98
+kidney beans,112
+prosciutto,280
+broccoli,55
+rye,45
+crab,83
+avocado,234
+spinach,23
+strawberries,49
+carrot,25
+tilapia,45
+almond milk,46
+black beans,227
+carrot,25
+orange,62
+coconut milk,42
+broccoli,55
+clams,199
+turkey,130
+oats,110
+rye,45
+turkey,130
+rye,45
+black beans,227
+lentils,116
+rice,206
+peas,59
+peach,39
+black beans,227
+kidney beans,112
+haddock,206
+plum,46
+kiwi,41
+clams,199
+zucchini,33
+tofu,76
+rye,45
+chickpeas,269
+yogurt,59
+cabbage,25
+bacon,50
+green beans,35
+quinoa,120
+bulgur,222
+yogurt,59
+coconut milk,42
+rye,45
+lamb,400
+crab,83
+grapes,62
+milk,103
+blueberries,84
+yogurt,59
+bulgur,222
+barley,193
+orange,62
+apple,95
+egg,78
