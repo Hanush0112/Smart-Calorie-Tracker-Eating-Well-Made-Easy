@@ -36,23 +36,6 @@ To help users:
 
 ---
 
-## 📁 Project Structure
-
-smart-calorie-tracker/
-├── app.py # Flask backend application
-├── templates/
-│ ├── index.html # Form for food input
-│ └── summary.html # Calorie summary with graphs
-├── static/
-│ └── style.css # Optional custom styles
-├── data/
-│ ├── food_calories.csv # Predefined food item → calories
-│ └── meal_logs.csv # Daily log file created via Pandas
-├── requirements.txt
-└── README.md
-
-
----
 
 ## ⚙️ Setup Instructions
 
